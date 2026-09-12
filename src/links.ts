@@ -19,6 +19,18 @@ export const shortLinks: ShortLink[] = [
     target: 'https://www.zeffy.com/en-US/ticketing/state-of-the-streets--2026',
     desc: 'State of the Streets 2026 — tickets (Zeffy)',
   },
+  // Port Authority campaign QR codes — carried over from the old
+  // hudcostreets.github.io placeholder so printed QRs keep working.
+  {
+    slug: 'PA0',
+    target: 'https://hudcostreets.org/panynj/action?source=canvassing-qr',
+    desc: 'Port Authority take-action — canvassing QR',
+  },
+  {
+    slug: 'PA1',
+    target: 'https://hudcostreets.org/panynj/action?source=smartphone-qr',
+    desc: 'Port Authority take-action — smartphone QR',
+  },
 ]
 
 export type Campaign = {
