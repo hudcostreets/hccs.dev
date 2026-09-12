@@ -1,23 +1,22 @@
 import react from '@vitejs/plugin-react'
 import { defineConfig, type Plugin, type Connect } from 'vite'
 import type { ServerResponse } from 'node:http'
-import { shortLinks } from './src/links'
+import { resolveShortLink } from './src/links'
 
 const allowedHosts = process.env.VITE_ALLOWED_HOSTS?.split(',') ?? []
 
-// Emit a Cloudflare Pages `_redirects` file from `shortLinks`, and honor the
-// same redirects in the dev + preview servers so they're testable locally.
+// Short-links are resolved case-insensitively by a Pages Function
+// (functions/[slug].ts) in production. Here we (a) emit the `_redirects` SPA
+// fallback so unknown paths render the app's 404 view, and (b) mirror the
+// Function's redirect behavior in the dev + preview servers for parity.
 // https://developers.cloudflare.com/pages/configuration/redirects/
 function redirects(): Plugin {
-  const rules = shortLinks
-    .map(({ slug, target, status }) => `/${slug}  ${target}  ${status ?? 302}`)
-    .join('\n')
-  const file = `# Generated from src/links.ts — do not edit by hand.\n${rules}\n\n# SPA fallback (unknown paths render the app, which shows a 404 view).\n/*  /index.html  200\n`
+  const file = `# SPA fallback — short-links are handled by functions/[slug].ts.\n/*  /index.html  200\n`
 
-  const bySlug = new Map(shortLinks.map(l => [l.slug, l]))
   const middleware = (req: Connect.IncomingMessage, res: ServerResponse, next: () => void) => {
-    const slug = (req.url ?? '').split('?')[0].replace(/^\/+/, '').replace(/\/+$/, '')
-    const link = bySlug.get(slug)
+    const path = (req.url ?? '').split('?')[0].replace(/^\/+|\/+$/g, '')
+    // Only single-segment paths are short-link candidates (mirrors [slug].ts).
+    const link = path.includes('/') ? null : resolveShortLink(path)
     if (link) {
       res.statusCode = link.status ?? 302
       res.setHeader('Location', link.target)

@@ -1,8 +1,11 @@
 // Single source of truth for hccs.dev routing & content.
 //
-// - `shortLinks` power vanity redirects (hccs.dev/<slug> -> target). At build
-//   time these are emitted to a Cloudflare Pages `_redirects` file, and the
-//   dev/preview servers redirect them too (see vite.config.ts).
+// - `shortLinks` power vanity redirects (hccs.dev/<slug> -> target). Lookups
+//   are case-insensitive: a Pages Function (functions/[slug].ts) resolves them
+//   in production and the dev/preview servers use the same `resolveShortLink`.
+//   Slugs may be authored in any case; uppercase them when you want a smaller,
+//   alphanumeric-mode QR code (paths are case-sensitive per spec, so the
+//   case-insensitive layer is what makes an uppercase QR convention safe).
 // - `campaigns` are the four flagship HCCS campaigns (hudcostreets.org).
 // - `dataProjects` are the standalone data/visualization sites.
 
@@ -11,6 +14,20 @@ export type ShortLink = {
   target: string
   status?: number // HTTP redirect code; defaults to 302 (temporary)
   desc?: string // human note; not shown on the site
+}
+
+// Resolve a single URL path segment to a short-link, case-insensitively.
+// Used by the Pages Function and the dev/preview middleware.
+export function resolveShortLink(segment: string): ShortLink | null {
+  let key: string
+  try {
+    key = decodeURIComponent(segment)
+  } catch {
+    key = segment
+  }
+  key = key.replace(/^\/+|\/+$/g, '').toLowerCase()
+  if (!key) return null
+  return shortLinks.find(l => l.slug.toLowerCase() === key) ?? null
 }
 
 export const shortLinks: ShortLink[] = [
