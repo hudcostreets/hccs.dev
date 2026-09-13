@@ -93,7 +93,7 @@ export type DataProject = {
 // Ordered by significance.
 export const dataProjects: DataProject[] = [
   {
-    href: 'https://crashes.hudcostreets.org',
+    href: 'https://crashes.hccs.dev',
     name: 'NJ Crashes',
     blurb: 'NJ traffic-crash data from NJ DOT & State Police, mapped and analyzed.',
   },
