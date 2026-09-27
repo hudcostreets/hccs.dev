@@ -88,6 +88,7 @@ export type DataProject = {
   href: string
   name: string
   blurb: string
+  og: string // og:image / preview thumbnail (1200×630-ish)
 }
 
 // Ordered by significance.
@@ -96,26 +97,37 @@ export const dataProjects: DataProject[] = [
     href: 'https://crashes.hccs.dev',
     name: 'NJ Crashes',
     blurb: 'NJ traffic-crash data from NJ DOT & State Police, mapped and analyzed.',
+    og: 'https://crashes-data.hccs.dev/og.jpg',
   },
   {
     href: 'https://ctbk.dev',
     name: 'Citi Bike Dashboard',
     blurb: 'Interactive explorer for NYC Citi Bike ridership data.',
+    og: 'https://ctbk.dev/screenshots/ctbk-og-mosaic.jpg',
   },
   {
     href: 'https://path.hudcostreets.org',
     name: 'PATH Ridership',
     blurb: 'PATH train ridership stats and trends.',
+    og: 'https://pa.hccs.dev/og.png',
   },
   {
     href: 'https://hbt.hccs.dev',
     name: 'Hub Bound Travel',
     blurb: 'NJ→NY transit trends, 2014–2024, from NYMTC Hub Bound Travel reports.',
+    og: 'https://hbt.hccs.dev/og.png',
   },
   {
     href: 'https://ht.hccs.dev',
     name: 'Holland Tunnel Bike Lane',
     blurb: 'A time-shared bike lane through the Holland Tunnel — 10 min/hour.',
+    og: 'https://ht.hccs.dev/og.png',
+  },
+  {
+    href: 'https://jct.rbw.sh',
+    name: 'JC Property Taxes',
+    blurb: 'Jersey City property-tax rates, mapped by block and lot.',
+    og: 'https://jct.rbw.sh/og-lot.jpg',
   },
 ]
 

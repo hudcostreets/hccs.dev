@@ -41,8 +41,13 @@ function Home() {
         {dataProjects.map(p => (
           <li key={p.href}>
             <a href={p.href}>
-              <span className="name">{p.name}</span>
-              <span className="blurb">{p.blurb}</span>
+              <span className="og">
+                <img src={p.og} alt={`${p.name} preview`} loading="lazy" />
+              </span>
+              <span className="body">
+                <span className="name">{p.name}</span>
+                <span className="blurb">{p.blurb}</span>
+              </span>
             </a>
           </li>
         ))}
