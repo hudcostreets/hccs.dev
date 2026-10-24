@@ -1,0 +1,56 @@
+{
+  "path": "/better-buses",
+  "title": "Better Buses",
+  "description": "",
+  "source": "https://hudcostreets.org/better-buses",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/media/426c8dbe4219eadf.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/eb550491-2c03-4ef6-b24c-8b8eba896e0d/bf603ef8-1a1b-46c0-9e49-823521bff824.JPG",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<p></p><h3>Hudson County sees over <strong>30 million bus rides a year</strong>—more than the Hudson-Bergen Light Rail, and rivaling some of the region’s busiest rail lines. Yet for too long, bus riders have been overlooked by state and local leaders, forced to deal with unreliable, inconsistent service. </h3><h3>As Hudson County grows, the time to act is now. We need a modern bus network: <strong>Bus Rapid Transit on JFK Boulevard</strong>, with dedicated bus lanes, signal priority, and streets designed to keep buses moving—not stuck behind illegal parking or poor intersections. And we must expand <strong>frequent service</strong> to the neighborhoods that need it most. </h3><h3>Better buses mean <strong>more riders, less traffic, cleaner air, and fewer parking headaches</strong>. It’s time to give bus riders the system they deserve.</h3>"
+    },
+    {
+      "type": "image",
+      "src": "/media/9b8fcc080c592890.jpeg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/f243e6eb-caf9-46ee-85cb-6652dcc3b7df/IMG_3569.jpeg",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>TAKE OUR QUICK SURVEY</strong></h2><p>Tells us about some of the issues you encounter on NJ Transit buses and what you would like to see improved.</p><p></p>"
+    },
+    {
+      "type": "link",
+      "label": "SURVEY",
+      "href": "https://docs.google.com/forms/d/e/1FAIpQLSdkdjodzHcpToTyt1ZiOY9lhgMvhwxSPSOFg0iFpy67ej9log/viewform?usp=publish-editor"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Campaign Goals</strong></h2><h4>‍                                                                                                                       ‍</h4><p>Our campaign prioritizes a major project and simple service asks and a major project (&gt;&gt;&gt;)</p><ul><li><p><strong>JFK BRT: </strong>Bus Rapid Transit on Kennedy Boulevard would dramatically improve reliability for two of the most important bus routes in Jersey City and Bayonne: the <strong>119 and the 10</strong>.</p><p>BRT features such as <strong>dedicated bus lanes and traffic signal priority</strong> would allow buses to move past congestion and avoid getting stuck in traffic. This corridor carries thousands of riders every day, and faster buses would benefit both local riders and commuters traveling through Jersey City.</p></li><li><p><strong>Improving Real Time Tracking: </strong>Riders shouldn’t be waiting for buses that never come. Reliable, real-time tracking reduces uncertainty, improves trip planning, and allows buses to communicate with traffic signals for priority at intersections.</p></li></ul>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Beyond our campaign priorities, we need practical street-level changes to keep buses moving and make transit work for everyone.</p><ul><li><p><strong>Priority Bus Corridors</strong> — Keep major bus routes clear of illegal parking and other obstacles so buses can move reliably.</p></li><li><p><strong>Accessible Bus Stops</strong> — Build bus bulbs and level boarding stops so seniors, people with disabilities, and all riders can board safely and quickly.</p></li><li><p><strong>Better Intersections</strong> — Redesign intersections to help buses turn easily and reduce delays, including setting back stop lines and improving street geometry.</p></li></ul>"
+    },
+    {
+      "type": "image",
+      "src": "/media/8b81b447e81077bc.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/dd87d613-9ad9-44b3-be0f-085d2ac8df6e/IMG_3927.jpg",
+      "href": null
+    }
+  ],
+  "review": [],
+  "sourceImages": [
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/eb550491-2c03-4ef6-b24c-8b8eba896e0d/bf603ef8-1a1b-46c0-9e49-823521bff824.JPG",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/f243e6eb-caf9-46ee-85cb-6652dcc3b7df/IMG_3569.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/dd87d613-9ad9-44b3-be0f-085d2ac8df6e/IMG_3927.jpg"
+  ]
+}

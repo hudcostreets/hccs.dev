@@ -1,0 +1,112 @@
+{
+  "path": "/our-story",
+  "title": "Our Story",
+  "description": "",
+  "source": "https://hudcostreets.org/our-story",
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<h2><strong>Mission</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Our mission is to improve connectivity and transportation equity in Hudson County by advocating for safe streets, pedestrian and cycling infrastructure, and access to transit in each community. We believe a more connected Hudson County that is safe for pedestrians, cyclists, transit riders, people in wheelchairs, and all users of micromobility will promote the health and well-being of our more than 750,000 residents by providing people of all ages and abilities with more mobility options. </p><p><strong>To be a part of the movement, </strong><a href=\"https://forms.gle/3n6ZqSXi7cb49kfy6\"><strong>join the HCCS Slack workspace.</strong></a></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Watch our Mission Video on </strong><a href=\"https://vimeo.com/930522747?share=copy\"><strong>Vimeo </strong></a><strong>or </strong><a href=\"https://youtu.be/J-TyKCZFT1I?feature=shared\"><strong>YouTube</strong></a><strong>.</strong></h2>"
+    },
+    {
+      "type": "link",
+      "label": "Continue on hudcostreets.org",
+      "href": "https://hudcostreets.org/our-story"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Our Story</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/1a88c0543e26c330.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/4da89b11-0ba6-4165-b02f-7215d0470673/Image+from+iOS+%282%29.jpg",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<p>Bike Hudson County and Hudson County Complete Streets began as the Hudson County Bike Consortium (HudCo BikeCo) in 2021, comprised of the city-based bike groups Bike Hoboken, Bike JC, Bike Weehawken, Bike North Bergen, and Bici UC. It expanded to include SafeStreetsJC and any individuals interested in advocating for safe and sustainable modes of transport, including active transportation (walking, biking, ebiking, skating, scootering, etc.) and transit. </p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Founding Donors</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/8f0a6e81be2459b1.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/fd39825e-1858-4204-bd72-b7afe579c49a/HCCS_Stickers_PRINT-1.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<p><strong>Chris Adair</strong></p><p><strong>Kevin Bing</strong></p><p><strong>Beatriz Bofill</strong></p><p><strong>Tony Borelli</strong></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>We recognize the following individuals whose contributions have helped our organization enormously.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><strong>Linda Collins</strong></p><p><strong>Jimmy Lee</strong></p><p><strong>Kevin Murphy</strong></p><p><strong>Talya Schwartz</strong></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><strong>James Solomon</strong></p><p><strong>Steve Vaccaro</strong></p><p><strong>James Vance</strong></p><p><strong>Ryan Williams</strong></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>About Hudson County</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/022b64d7d3ad9966.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/85de85ee-95f8-43b8-9fad-bf2a62dff80b/hudson-county-road-fatalities.png",
+      "href": "https://hudcostreets.org/vision-zero"
+    },
+    {
+      "type": "html",
+      "html": "<p>Hudson is the most densely populated county in New Jersey, which is in turn the most densely populated state in the country. Hudson County also contains the four most densely populated cities in the nation: Guttenberg, Union City, West New York and Hoboken.</p><ul><li><p><strong>614 people died on New Jersey roadways in 2023</strong>. The overwhelming majority of fatalities was among pedestrians, followed by drivers, followed by cyclists (<a href=\"https://www.nj.com/news/2024/01/fewer-people-died-on-nj-roads-in-2023-though-one-group-remains-at-greater-risk.html\">source</a>). </p></li><li><p><strong>Bike lanes improve safety for everyone</strong>, including pedestrians and drivers (<a href=\"https://www.sciencedirect.com/science/article/abs/pii/S2214140518301488?via%3Dihub\">source</a>).</p></li><li><p><strong>Hudson County has</strong> <strong>more than 600 miles of roadways. </strong>The county itself is responsible for 61 roads, which are the major connectors between our municipalities, yet there are less than 5 miles of bike lanes on county roads. For an inventory of county roads, sidewalks and bike lanes click <a href=\"https://www.state.nj.us/transportation/refdata/countysidewalks/pdf/hudson.pdf\">here</a>.  </p></li><li><p>See Hudson County <strong>traffic fatalities and injuries</strong> by <a href=\"https://hudcostreets.org/vision-zero\">visiting our Vision Zero Page</a>.</p></li></ul>"
+    },
+    {
+      "type": "image",
+      "src": "/media/57fdacbf98de2be1.jpeg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1630464323883-3QU96PUYQ3GAN2JLOIKY/IMG_5193.jpeg",
+      "href": null
+    }
+  ],
+  "review": [
+    {
+      "id": "block-yui_3_17_2_1_1713140082128_47636",
+      "kind": "interactive-embed"
+    },
+    {
+      "id": "block-yui_3_17_2_1_1698116131349_3677",
+      "kind": "unmapped-block",
+      "classes": [
+        "sqs-block",
+        "website-component-block",
+        "sqs-block-website-component",
+        "sqs-block-quote",
+        "quote-block"
+      ]
+    }
+  ],
+  "sourceImages": [
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/4da89b11-0ba6-4165-b02f-7215d0470673/Image+from+iOS+%282%29.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/fd39825e-1858-4204-bd72-b7afe579c49a/HCCS_Stickers_PRINT-1.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/85de85ee-95f8-43b8-9fad-bf2a62dff80b/hudson-county-road-fatalities.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1630464323883-3QU96PUYQ3GAN2JLOIKY/IMG_5193.jpeg"
+  ]
+}

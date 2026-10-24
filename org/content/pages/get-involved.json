@@ -1,0 +1,66 @@
+{
+  "path": "/get-involved",
+  "title": "Get Involved",
+  "description": "",
+  "source": "https://hudcostreets.org/get-involved",
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<h2><strong>Help Create a Safe and Sustainable Future</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/0d0a2f53c9b4e1fe.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1676228398534-YXNRY7SOTOAMFATWMKBK/unsplash-image-bmmcfZqSjBU.jpg",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Join the HCCS Slack Workspace.</strong></h2><p>We coordinate and communicate in our dedicated Slack Workspace. Request an invite by submitting the form.</p>"
+    },
+    {
+      "type": "link",
+      "label": "Join",
+      "href": "https://docs.google.com/forms/d/e/1FAIpQLSdPDicmcNa0fpxd-tTJGeF0-CPlLwQMd8y8KacD4FPAR9pWYw/viewform"
+    },
+    {
+      "type": "image",
+      "src": "/media/5a1fd95a204db1f8.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1676228416454-5XAJLIAVLZ2GUL40EGA4/unsplash-image-SoT4-mZhyhE.jpg",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Make a Donation.</strong></h2><p>Consider a tax-deductible donation to purchase bike repair parts, bike lights, or other supplies and services to keep us running!</p>"
+    },
+    {
+      "type": "link",
+      "label": "Donate",
+      "href": "https://hudcostreets.org/donate"
+    },
+    {
+      "type": "image",
+      "src": "/media/d9c0b7eceb5afc7b.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1671734155183-GR4OH65T6ZBKFYRX4F2T/unsplash-image-BKFflYZYjoA.jpg",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Subscribe to Newsletter.</strong></h2><p>Our newsletter brings you the latest calls to actions and upcoming events straight to your inbox.</p>"
+    },
+    {
+      "type": "link",
+      "label": "Subscribe",
+      "href": "https://newsletter.hudcostreets.org/"
+    }
+  ],
+  "review": [],
+  "sourceImages": [
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1676228398534-YXNRY7SOTOAMFATWMKBK/unsplash-image-bmmcfZqSjBU.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1676228416454-5XAJLIAVLZ2GUL40EGA4/unsplash-image-SoT4-mZhyhE.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1671734155183-GR4OH65T6ZBKFYRX4F2T/unsplash-image-BKFflYZYjoA.jpg"
+  ]
+}

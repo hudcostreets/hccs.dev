@@ -1,0 +1,204 @@
+{
+  "path": "/panynj",
+  "title": "Port Authority",
+  "description": "",
+  "source": "https://hudcostreets.org/panynj",
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<h2><strong>November 2025 Update</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/c83e874678e929c4.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/a157342c-7835-4d27-98b6-894298a6b155/See+what%E2%80%99s+next+for+PATH+on+1120.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<ul><li><p><a href=\"https://hudcostreets.org/news/press-release-path-win\"><strong>Read our Press Release</strong></a> on our big win for better PATH service!</p></li><li><p>Missed the Q&amp;A event?<strong> Watch the recorded livestream </strong><a href=\"https://www.youtube.com/live/mFCAk4ZXUkA\"><strong>available here</strong></a><strong>.</strong></p></li></ul>"
+    },
+    {
+      "type": "image",
+      "src": "/media/063fad7110ad440c.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/b8686edc-3c80-41ff-8b7b-c656827a4edf/PATH+Campaign+-+Canvass+CTA+2.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<p>We need volunteers for canvassing at PATH stations to reach our goal of 10,000 signatures! Weekly shifts on Saturdays are available.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>CANVASS WITH US!</strong></h2>"
+    },
+    {
+      "type": "link",
+      "label": "Sign Up",
+      "href": "https://hudcostreets.org/panynj/volunteer"
+    },
+    {
+      "type": "image",
+      "src": "/media/e0f2500af6f3a86c.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/073c880d-23fb-45a4-8ef3-76ec1204c33c/PATH+Improve+Service+Petition+Image.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<p>Take 2 minutes to send a letter to decision makers asking them for <strong>more PATH trains on weekends and off-peak</strong> and extending the network to Newark Airport.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>TAKE ACTION!</strong></h2>"
+    },
+    {
+      "type": "link",
+      "label": "Write Letter",
+      "href": "https://hudcostreets.org/panynj/action"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Broad Community Support</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>📝 <strong>Riders are speaking up!</strong></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>A record-breaking 7,000+ people have signed two separate petitions and written letters for improved PATH service! </p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>🛍 <strong>Businesses are speaking up!</strong></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Business leaders are speaking up for better PATH service and its benefits for for small and large businesses, for their workers, for visitors and tourists, and for our regional economy — including the <a href=\"https://hudcostreets.org/s/Hudson-Chamber-PATH-Service-Letter-250206.pdf\">Hudson County Chamber of Commerce</a>!  </p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>🗽🏛 <strong>Elected Officials </strong>in New Jersey see you and are championing transit improvements!  Thank them back!</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>NJ <a href=\"https://x.com/repmenendez/status/1867266482872234181\">Congressman Rob Menendez</a></p><p><a href=\"https://hudcostreets.org/s/Rep-Nadler-Final-Port-Authority-PATH-Letter-202506.pdf\">NY Congressman Jerry Nadler</a></p><p><a href=\"https://hudcostreets.org/s/Rep-LaMonica-McIver-PATH-Letter-of-Support.pdf\">NJ Congresswoman LaMonica McIver</a></p><p><a href=\"https://hudcostreets.org/s/Sen-Angela-McKnight-Letter-of-support-for-a-Better-Path-system.pdf\">NJ Senator Angela McKnight</a></p><p><a href=\"https://hudcostreets.org/s/PATH-LETTER-SEN-MUKHERJI.pdf\">NJ Senator Raj Mukherji</a></p><p><a href=\"https://x.com/bmccannstamato/status/1867277841588793616\">NJ Assemblywoman Barbara McCann Stamato</a></p><p><a href=\"https://www.instagram.com/p/DGzRzSdTBa1/?igsh=MWcwYzcwdWl4cG9reA%3D%3D\">NJ Assemblywoman Jessica Ramirez</a></p><p><a href=\"https://x.com/AsmJohnAllen/status/1867328453038813460\">NJ Assemblyman John Allen</a></p><p><a href=\"https://hudcostreets.org/s/CE-Letter-to-PANYNJ-Increasing-PATH-Service.pdf\">County Executive Craig Guy</a></p><p><a href=\"https://hudcostreets.org/s/Hudson-County-Board-of-Commisioners-PATH-Letter-of-Support.pdf\">The Hudson County Board of Commissioners</a> (Romano, Aponte-Lipski, Baselice, Cedeño, Cifelli, Kopacz, O’Dea, Rodriguez, Walker)</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p><a href=\"https://x.com/stevenfulop/status/1867269939460997568\">Jersey City Mayor Steven Fulop</a></p><p><a href=\"https://www.youtube.com/live/j8KsUlkmYq8?si=ATXKaoK52L-UUvGC&amp;t=6844\">Jersey City Director Manzella’s presentation</a></p><p><a href=\"https://x.com/RaviBhalla/status/1867326391542284474\">Hoboken Mayor Ravi Bhalla’s statement</a> and <a href=\"https://www.youtube.com/live/j8KsUlkmYq8?si=kdTeh0zDniYjOX07&amp;t=5298\">presentation</a></p><p><a href=\"https://hudcostreets.org/s/CPJW-Support-Letter-For-PATH-Service.pdf\">JC Council President Joyce Watterman</a></p><p><a href=\"https://hudcostreets.org/s/Councilman-James-Solomon-Letter-to-PATH-requesting-more-Service.pdf\">Jersey City Councilman James Solomon</a></p><p><a href=\"https://hudcostreets.org/s/Councilman-Gilmore-051225-Letter-Requesting-PATH-Service-Improvements.pdf\">Jersey City Councilman Frank Gilmore</a></p><p><a href=\"https://hudcostreets.org/s/Letter-to-PANYNJ-Asking-for-PATH-Service-Improvements-EJabbour.pdf\">Hoboken Councilperson-at-Large, Emily Jabbour</a></p>"
+    },
+    {
+      "type": "image",
+      "src": "/media/b258f5a0797e88e5.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/3eb34d88-270c-49a9-9f1f-68426791462c/PATH+Improve+Service+Petition+Image.jpg",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>We Need Your Support!</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>We've achieved so much, but our work isn’t over yet - we won’t stop until we achieve permanent PATH wins. We need YOU to help us maintain this momentum.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><strong>Volunteer</strong></h3><p>Get involved &amp; stay up to date several ways:</p><ul><li><p><a href=\"https://hudcostreets.org/panynj/volunteer\"><strong>Canvass at a PATH station</strong></a> - hang out with us on Saturdays to get more signatures!</p></li><li><p><a href=\"https://forms.gle/tixH7Q2Gewsmqw7MA\"><strong>Join our Slack Workspace</strong></a><strong> </strong>- we use Slack to organize and collaborate!</p></li></ul>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><strong>Spread the Word</strong></h3><p>Share our <a href=\"https://hudcostreets.org/panynj/action\">letter-writing petition</a> with other riders on the PATH trains and platforms, and ask them to sign on!<strong> </strong><a href=\"https://drive.google.com/file/d/1HETE_IM4ZVpaJSCJ-fvD896oGmXd1SKr/view?usp=sharing\">Print this flyer</a> or <a href=\"https://drive.google.com/file/d/1SzZg1soHfv0YbxvcGX7ZOmJPNiW0eFmb/view?usp=sharing\">display this QR on your smartphone</a> to direct other people to our petition.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><strong>Social Media</strong></h3><p>Share your PATH experiences and amplify our campaign story on social media using our posts:</p><ul><li><p><a href=\"https://bsky.app/profile/hudcostreets.org/post/3lctlmrfe5c2s\">Bluesky</a></p></li><li><p><a href=\"https://www.instagram.com/p/DC9lMuzRmu2/?igsh=NW5pcGtldnU0ZHYz\">Instagram</a></p></li><li><p><a href=\"https://x.com/HudCoStreets/status/1862540363157635493\">X</a></p></li></ul>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><strong>Donate to Support Our Mission!</strong></h3><p>This is a volunteer-run campaign – funding will help us hire permanent staff to advocate more strongly. Support our work - <a href=\"https://hudcostreets.org/donate\"><strong>donate or become an HCCS Member for as little as $5/month</strong></a>! </p><p>Every contribution, big or small, helps us continue fighting for A Better PATH and other transit and safe streets projects in Hudson County and the NY/NJ region.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>May 2025 Update</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/c3a5d1d473bd5ba1.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/e22a2e78-43f7-4fb2-808a-2d479db90f6a/Better+PATH+Rally.png",
+      "href": null
+    },
+    {
+      "type": "link",
+      "label": "Continue on hudcostreets.org",
+      "href": "https://hudcostreets.org/panynj"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>5,000+ Signature Rally for a Better PATH</strong></h2><p>Thank you to everyone who came out for our rally on May 20th to celebrate 5,000+ petition signatures asking for better PATH service!</p><p><a href=\"https://youtu.be/Z6kcAUjlGzc\"><strong>Watch the video highlights here</strong></a></p><p>Thank you to all our speakers:</p><ul><li><p>Jersey City Mayor <strong>Steven Fulop</strong></p></li><li><p>Hoboken Mayor <strong>Ravi Bhalla</strong></p></li><li><p>Jersey City Councilman <strong>James Solomon</strong></p></li><li><p>Hoboken Councilperson <strong>Emily Jabbour</strong></p></li><li><p>NJ Senator <strong>Angela McKnight</strong></p></li><li><p>NJ Senator <strong>Raj Mukherji</strong></p></li><li><p><strong>Stephanie Martinez, </strong>HCCS Newark Volunteer</p></li><li><p><strong>Corey Hannigan</strong>, TSTC</p></li><li><p><strong>Christopher Vasquez</strong>, Strong Towns West Hudson</p></li></ul><p>News coverage:</p><ul><li><p><a href=\"https://youtu.be/1AQgbAVovrA?si=CRib6e9J5BJRxdVT&amp;link_id=2&amp;can_id=22c3dd858ff9341158c03e3dd949321b&amp;source=email-tell-the-path-how-poor-service-affects-your-life&amp;email_referrer=email_2744796&amp;email_subject=tell-the-path-today-how-poor-service-affects-your-life-_&amp;&amp;\">Pix 11</a></p></li><li><p><a href=\"https://patch.com/new-jersey/jersey-city/path-trains-should-run-newark-airport-says-group-jersey-city\">Patch</a></p></li><li><p><a href=\"https://hudsoncountyview.com/hudson-county-electeds-join-activists-in-call-for-improved-more-frequent-path-service/\">Hudson County View</a></p></li><li><p><a href=\"https://jcitytimes.com/riders-officials-gather-to-rally-for-a-better-path/\">Jersey City Times</a></p></li></ul>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Further Reading</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/b51a49f66f5f2e95.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/cf4d5d6a-6453-446b-8643-12c4c2159a4a/PXL_20240518_213800256.jpg",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<h3><strong>Media Coverage</strong></h3><ul><li><p><a href=\"https://hudsoncountyview.com/hudson-electeds-and-commuters-decry-path-delays-at-port-authority-meeting/\">Hudson electeds and commuters decry PATH delays at Port Authority meeting</a></p></li><li><p><a href=\"https://www.nj.com/news/2025/07/path-is-like-hunger-games-with-fire-derailment-crowds-riders-officials-want-answers.html\">PATH is like Hunger Games with fire, derailment, crowds. Riders, officials want answers. </a></p></li><li><p><a href=\"https://gothamist.com/news/what-exactly-was-fixed-path-riders-fume-at-service-meltdown-after-31m-upgrade\">'What exactly was fixed?': PATH riders fume at service meltdown after $31M upgrade</a></p></li><li><p><a href=\"https://hudsoncountyview.com/port-authority-oks-4-8b-midtown-bus-terminal-commuters-call-out-path-service/\">Port Authority OKs $4.8B Midtown Bus Terminal, commuters call out PATH service</a></p></li><li><p><a href=\"https://jcitytimes.com/riders-officials-gather-to-rally-for-a-better-path/\">Riders, Officials Gather to ‘Rally for a Better PATH’</a></p></li><li><p><a href=\"https://hudsoncountyview.com/hudson-county-electeds-join-activists-in-call-for-improved-more-frequent-path-service/\">Hudson County electeds join activists in call for improved &amp; more frequent PATH service</a></p></li><li><p><a href=\"https://patch.com/new-jersey/jersey-city/path-trains-should-run-newark-airport-says-group-jersey-city\">PATH Trains Should Extend To Newark Airport, Says Group At Jersey City Rally</a></p></li><li><p><a href=\"https://www.youtube.com/watch?v=1AQgbAVovrA\">PATH riders and elected officials call for better service</a></p></li><li><p><a href=\"https://www.nj.com/news/2025/03/with-hoboken-terminal-work-complete-path-riders-want-more-weekend-service.html?gift=9fa5522b-782e-4baa-9084-2bcacccadbf6\">With Hoboken terminal work complete, PATH riders want more weekend service</a></p></li><li><p><a href=\"https://www.nj.com/news/2025/02/hoboken-path-station-is-on-track-to-reopen-by-end-of-the-month-officials-promise.html?gift=c3d0e8ed-0982-4f77-8137-1d86ff33dc18\">Hoboken PATH station is on track to reopen by end of the month, officials promise</a></p></li><li><p><a href=\"https://www.nj.com/news/2024/12/path-riders-plead-for-better-service-as-tolls-and-fares-are-increased.html\">PATH riders plead for better service as tolls and fares are increased</a></p></li><li><p><a href=\"https://jcitytimes.com/transit-advocates-call-for-path-expansion-and-off-peak-service-improvements/\">Transit Advocates Call for PATH Expansion and Off-Peak Service Improvements</a></p></li><li><p><a href=\"https://www.nj.com/opinion/2024/12/train-to-the-plane-extend-path-to-newark-airport-opinion.html\">Train to the plane: Extend PATH to Newark Airport</a></p></li><li><p><a href=\"https://hudsoncountyview.com/hudson-county-complete-streets-starts-advocacy-campaign-for-path-improvements/\">Hudson County Complete Streets starts advocacy campaign for PATH improvements\t</a></p></li><li><p><a href=\"https://www.nj.com/opinion/2024/11/the-port-authority-already-has-a-path-to-sustainability-go-big-with-it-opinion.html\">The Port Authority already has a PATH to sustainability; improve it!</a></p></li></ul>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><strong>Recordings</strong></h3><ul><li><p><a href=\"https://youtu.be/c6xkOrK5z4k?feature=shared\">Recording from December 12, 2024 Port Authority Board Meeting</a></p></li><li><p><a href=\"https://www.panynj.gov/corporate/en/financial-information/budget/toll-fare-adjustments.html\">Recordings from four public input meetings in December</a></p></li></ul>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><strong>Resources</strong></h3><ul><li><p><a href=\"https://path.hudcostreets.org/\">PATH Ridership Data</a></p></li></ul>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Our Campaign Goals</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/405989f261dd866d.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/87259f40-a397-4f65-9f9e-03096682d9aa/PXL_20240921_201250408.MP.jpg",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<p><em>Buses stuck in traffic entering the Lincoln Tunnel. By extending the hours of the dedicated Express Bus Lanes on weekends and off-peak, more people can travel quickly into Manhattan while reducing traffic congestion overall.</em></p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>In recent years the Port Authority has made commendable capital investments into improving the PATH, including new trains, critical maintenance, and a new digital payments system. But despite ridership returning to pre-pandemic levels, the PATH is not meeting the broader region's transportation needs. We’re asking for two key improvements:</p><p><strong>1. Frequent Off-Peak Service</strong></p><p>The PATH runs every 20-40 minutes on weekends, weeknights and midday weekdays, despite ridership returning to pre-pandemic levels. This creates dangerous overcrowding on stations, delays and missed connections for riders.</p><p>The PATH should run every 5 minutes off-peak. This is feasible, as it runs every 2 minutes in rush hour.</p><p><strong>2. Extend to Newark Airport</strong></p><p>The Port Authority’s proposed $3.5B AirTrain is far over budget and does not provide the service our region needs.  The PATH ends 3 miles from EWR, and riders must still transfer to NJ Transit and the AirTrain to reach the airport.  </p><p>The PATH should extend directly to Newark Airport for a fast, direct, affordable one-seat ride for travelers, airport workers and Newark residents, to reduce reliance on taxis and automobiles, and to reduce congestion at Newark Airport.  An extension to the airport would also provide much better transit access for residents and workers in South Newark traveling to New York and Jersey City and to the airport.</p><p><strong>In addition to these two core improvements, we also ask for:</strong></p><ul><li><p>Extending the Lincoln Tunnel Express Bus Lanes (XBL) to 24/7 operation, and</p></li><li><p>Developing comprehensive transit alternatives in preparation for congestion pricing</p></li></ul>"
+    }
+  ],
+  "review": [
+    {
+      "id": "block-yui_3_17_2_1_1749188552988_4112",
+      "kind": "interactive-embed"
+    }
+  ],
+  "sourceImages": [
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/e24f2616-3a66-4998-b8a0-e3c91ba74daf/ABP_Final-Logo_Wide_Banner_High.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/a157342c-7835-4d27-98b6-894298a6b155/See+what%E2%80%99s+next+for+PATH+on+1120.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/b8686edc-3c80-41ff-8b7b-c656827a4edf/PATH+Campaign+-+Canvass+CTA+2.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/073c880d-23fb-45a4-8ef3-76ec1204c33c/PATH+Improve+Service+Petition+Image.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/3eb34d88-270c-49a9-9f1f-68426791462c/PATH+Improve+Service+Petition+Image.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/e22a2e78-43f7-4fb2-808a-2d479db90f6a/Better+PATH+Rally.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/cf4d5d6a-6453-446b-8643-12c4c2159a4a/PXL_20240518_213800256.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/87259f40-a397-4f65-9f9e-03096682d9aa/PXL_20240921_201250408.MP.jpg"
+  ]
+}

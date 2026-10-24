@@ -1,0 +1,194 @@
+{
+  "path": "/",
+  "title": "Hudson County Complete Streets",
+  "description": "Our mission is to improve connectivity and transportation equity in Hudson County by advocating for safe streets, pedestrian and cycling infrastructure, and access to transit in each community. ",
+  "source": "https://hudcostreets.org/",
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<h2>State of the Streets 2026</h2><ul><li><h3>Thursday, October 22 @ 6:30 PM</h3></li><li><h3><a href=\"https://maps.app.goo.gl/xdEXpAE2itBSBZbz5\">The View Lincoln Park</a></h3></li></ul><p>State of the Streets 2026 is our annual community fundraiser to connect with old friends, introduce new ones, and generate the support needed to continue transportation advocacy in Hudson County.</p><p>With the Summer over, it's time to look back on the wins of the past year, acknowledge extraordinary efforts, and discuss what's worth prioritizing as we move into 2027.</p><p>We'll eat, drink, and enjoy each other's company. </p><p>Attire is casual, so dress for comfort!</p>"
+    },
+    {
+      "type": "link",
+      "label": "RSVP",
+      "href": "https://hudcostreets.org/events/2026-sots"
+    },
+    {
+      "type": "image",
+      "src": "/media/d44e7f5ef14dd6c7.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/106649ef-ef14-47be-85a5-d29b109bfac0/HCCS_Ep3_Benefit_Artwork__16_9.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "Grassroots results\n<h2>We're Winning</h2>\n\n<a href=\"https://hudcostreets.org/wins\">\n        See All Our Wins\n        \n</a>\n\n\n\n\n\n🎤\nCivic Engagement\n<h3>North Jersey Transit Forum</h3>\n<p>We organized North Jersey's first regional transit forum, convening NJ TRANSIT leadership, elected officials, transit agencies, and hundreds of residents to build a unified vision for the future of regional mobility.</p>\n2026\n\n\n\n🛣️\nHighway · Policy\n<h3>Turnpike Expansion Stopped</h3>\n<p>Governor Sherrill chose the responsible \"One Bridge Solution\" over a $10.7 billion highway expansion. As part of the Turnpike Trap coalition, we helped stop a plan that would have repeated decades of failed road-widening policy.</p>\n2026\n\n\n\n🚉\nTransit · Major Win\n<h3>PATH Service Improvements Secured</h3>\n<p>After mobilizing 8,000+ Hudson County residents and NJ electeds, the Port Authority committed to significant PATH service improvements — the direct result of our A Better PATH campaign and years of sustained organizing.</p>\n2025\n\n\n\n\n<a href=\"https://hudcostreets.org/wins\">\n        See All Our Wins\n        \n</a>"
+    },
+    {
+      "type": "card",
+      "title": "A Better PATH",
+      "html": "<p>Mobilizing to ask the Port Authority for <strong>5-minute off-peak PATH train</strong> frequency and <strong>extending the PATH to Newark Airport</strong>.</p>",
+      "href": "https://hudcostreets.org/panynj",
+      "src": "/media/b258f5a0797e88e5.jpg"
+    },
+    {
+      "type": "card",
+      "title": "Better Light Rail",
+      "html": "<p>The Hudson-Bergen Light Rail is the 6th busiest light rail system in the country yet it hasn’t been expanded since 2011. Northern NJ’s rail legacy deserves a modern revival. We need frequent, reliable service and connected communities now.</p>",
+      "href": "https://hudcostreets.org/hblr",
+      "src": "/media/32b6c3e20b275366.png"
+    },
+    {
+      "type": "card",
+      "title": "Turnpike Trap",
+      "html": "<p>NJDOT and NJTA want to spend $10.7 billion just to repeat decades of failed policies. Grassroots organizations from around New Jersey are standing together to put a stop to the proposed widening of the I78 extension’s approach to the Holland Tunnel.</p>",
+      "href": "https://turnpiketrap.org",
+      "src": "/media/d131e9d4ca02a097.jpg"
+    },
+    {
+      "type": "card",
+      "title": "14th St. Viaduct",
+      "html": "<p>A temporary barrier protection was erected for installation of a new sidewalk guardrail which created a safe cycling path during construction. We are calling on the county to install a permanent protected bike path on the viaduct that connects three municipalities.</p>",
+      "href": "https://hudcostreets.org/viaduct",
+      "src": "/media/bede4e3983e90fbb.jpg"
+    },
+    {
+      "type": "card",
+      "title": "#FixJFKBlvd",
+      "html": "<p>Known as the Boulevard of Death, JFK Boulevard is a county road that is a hazard to all road users. It is impossible to cross with its wide lanes that encourages speeding, there are dangerous left turns and the bus service running along it leaves much to be desired.</p>",
+      "href": "https://hudcostreets.org/fixjfkblvd",
+      "src": "/media/07326e7cc29dfe6c.png"
+    },
+    {
+      "type": "card",
+      "title": "#Fix139",
+      "html": "<p>Route 139 Upper is a state highway that divides two densely-populated pedestrian-centered neighborhoods in Jersey City: Journal Square and The Heights.</p>",
+      "href": "https://hudcostreets.org/fix-139",
+      "src": "/media/23c3cfe734e889a2.png"
+    },
+    {
+      "type": "card",
+      "title": "JFK Boulevard East",
+      "html": "<p>There is federal funding and a design earmarked for a protected cycle track on Boulevard East. A multi-use cycle track would provide safety for all types of active modes of transportation to thousands of people along this corridor of overburdened communities. However, local officials have not committed to the bike lane.</p>",
+      "href": "https://hudcostreets.org/jfkblvdeastredesign",
+      "src": "/media/731389c080c760c5.png"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Our Work</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/a56123419938fd4b.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/e2c3d2e1-892e-433c-87d6-6f4ece2c683c/20240709_Turnpike_Rally_09.jpg",
+      "href": "https://hudcostreets.org/advocacy"
+    },
+    {
+      "type": "html",
+      "html": "<h2><a href=\"https://hudcostreets.org/advocacy\">Advocacy</a></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>From installing protected bike lanes countywide to stopping a highway expansion our advocacy work is transforming our county.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/media/b26ac77317a6c38e.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/017556a6-7660-45d5-ba8e-1b881cf89498/crash-hudco.png",
+      "href": "https://hudcostreets.org/vision-zero"
+    },
+    {
+      "type": "html",
+      "html": "<h2><a href=\"https://hudcostreets.org/vision-zero\">Crash Data</a></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>The road to zero traffic deaths and serious injury.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/media/2a847cfb6f07b484.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1630339849621-8TK8K41A1JP7NNUU576D/Bike+JC+.png",
+      "href": "https://hudcostreets.org/groups"
+    },
+    {
+      "type": "html",
+      "html": "<h2><a href=\"https://hudcostreets.org/groups\">Community Groups</a></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Join a local community advocacy group in your area!</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Upcoming Events</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Support Us</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Your donation allows Hudson County Complete Streets to harness the power of grassroots organizing to make our streets safer, more livable, and more vibrant for all people in Hudson County.</p>"
+    },
+    {
+      "type": "link",
+      "label": "CONTRIBUTE",
+      "href": "https://hudcostreets.org/donate"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Newsletter</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Our monthly newsletter tells you what we've been up to in our efforts to improving safety for all road users. We'll have news about bike infrastructure, pedestrian safety, transit connections, community rides and events, and opportunities to volunteer.</p>"
+    },
+    {
+      "type": "link",
+      "label": "SUBSCRIBE",
+      "href": "https://newsletter.hudcostreets.org/"
+    }
+  ],
+  "review": [
+    {
+      "id": "block-1dd3c5bb368786e40ba6",
+      "kind": "custom-code"
+    },
+    {
+      "id": "block-dd954a1989a521286de7",
+      "kind": "custom-code"
+    },
+    {
+      "id": "block-e04d4aa2f05552825073",
+      "kind": "unmapped-block",
+      "classes": [
+        "sqs-block",
+        "website-component-block",
+        "sqs-block-website-component",
+        "sqs-block-summary-v2",
+        "summary-block",
+        "summary-v2-block"
+      ]
+    }
+  ],
+  "sourceImages": [
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/106649ef-ef14-47be-85a5-d29b109bfac0/HCCS_Ep3_Benefit_Artwork__16_9.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/3eb34d88-270c-49a9-9f1f-68426791462c/PATH+Improve+Service+Petition+Image.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/3a1b654f-3f7a-473e-854d-036b60313680/ABLR-Photo-1.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/d06d60c7-f67b-4dbf-b803-2fd415c7eac7/i78.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1654406876187-BVTD2P4E4KGT8S61624O/viaduct_now.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/412b799a-1f72-4f21-9d09-d126bee0dec5/Hudson-County-Demo-project-JFK-Manhattan.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1b5593b9-0421-4261-84f2-43614b951e3e/fix139banner.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1654406687215-XG9HJXSMG477KE4G20TB/Image+016-1.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/e2c3d2e1-892e-433c-87d6-6f4ece2c683c/20240709_Turnpike_Rally_09.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/017556a6-7660-45d5-ba8e-1b881cf89498/crash-hudco.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1630339849621-8TK8K41A1JP7NNUU576D/Bike+JC+.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/258f37cb-d2a9-4309-9557-8a653a7c2f5c/SotS_e3_2026_Invite_Square.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1708751149741-B4LHDDEXIGXS7BW5PFRG/bike-hoboken-small.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/921d6da2-e310-4a42-adc8-13ffbd02cd3f/GPSFesta2026_8.5x11_page-0001.jpg"
+  ]
+}

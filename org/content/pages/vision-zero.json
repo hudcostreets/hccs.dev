@@ -1,0 +1,128 @@
+{
+  "path": "/vision-zero",
+  "title": "Vision Zero",
+  "description": "",
+  "source": "https://hudcostreets.org/vision-zero",
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<h2><strong>Vision Zero</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>The road to zero traffic deaths and serious injury in Hudson County</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>The Five Principles of Vision Zero</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<ol><li><p>Traffic deaths and injuries are <strong>preventable</strong>.</p></li><li><p>The <strong>system</strong>, not individual actors, is responsible for safety.</p></li><li><p>People make mistakes. Transportation systems must be forgiving and designed with <strong>human error</strong> in mind.</p></li><li><p>Saving lives is <strong>not expensive.</strong></p></li><li><p><strong>Speed kills.</strong> Speed is the single most important factor in crash severity.</p></li></ol>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Resources</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<ul><li><p><a href=\"https://www.visionzero4nj.org/\">Vision Zero NJ Alliance</a></p></li><li><p><a href=\"https://visionzeronetwork.org/about/what-is-vision-zero/\">Vision Zero Network</a></p></li><li><p><a href=\"https://www.saferoadsforallnj.com/\">Driving Towards Zero Deaths NJ</a></p></li><li><p><a href=\"https://www.nsc.org/road/resources/road-to-zero/road-to-zero-home\">Road to Zero</a></p></li></ul>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><a href=\"https://crashes.hudcostreets.org\"><strong><em>View Crash Data Here</em></strong></a></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>The County’s Safety Action Plan</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/c33554d56b26309a.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/d1fb3d1b-609b-4e6e-9145-2b6075e8513f/VisionZeroLogo4KFinalv1-1280x720.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<p>Hudson County has been awarded a Federal Safe Streets for All (SS4A) planning grant of $480,000 in order to develop the Hudson County Vision Zero Safety Action Plan.</p><p>The County launched a <strong>Vision Zero Task Force</strong> on August 2023 which includes members of <strong>Hudson County Complete Streets</strong>. </p><p>The Vision Zero Safety Action Plan was released on January 2025. To read the full report and recommendations visit the link.</p>"
+    },
+    {
+      "type": "link",
+      "label": "Vision Zero Safety Action Plan",
+      "href": "https://www.hcnj.us/visionzero/safety-plan/"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Vision Zero Pledge</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>We the residents and visitors of Hudson County pledge that safety is our top priority. Whether we are cycling, driving, or using another mode of travel, we pledge to yield to the most vulnerable road user, in accordance with the rules of the road.</p><p></p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Take the Pledge</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Cyclists’ Code of Conduct</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<ol><li><p><strong>Pedestrians first.</strong> When we see a pedestrian crossing the street, we yield the right of way. </p></li><li><p><strong>Ride in the road.</strong> If the sidewalk is the only safe option, we reduce our speed to walking speed or we walk our bike.</p></li><li><p><strong>Ride with traffic</strong>, i.e. avoid wrong-way riding or “salmoning.” </p></li><li><p><strong>Use hand signals</strong> when turning. </p></li><li><p><strong>Call out when passing</strong> a pedestrian or another cyclist.</p></li><li><p>At night, we will do our best to <strong>be visible</strong>, using lights and/or reflectors.</p></li></ol><p>In short, we believe in the right to safe and equitable mobility for all.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Frequently Asked Questions</strong></h2>"
+    },
+    {
+      "type": "accordion",
+      "title": "Why do cyclists ride in the middle of the lane?",
+      "html": "<p>One simple answer is: the door zone. Every year thousands of cyclists are struck by people opening car doors from the inside of the vehicle. The law says: “Every person riding a bicycle on a roadway shall ride as near to the right roadside as practicable, exercising due care when passing a standing vehicle.” For this reason, it is safer to ride at least 3 ft from parked vehicles.</p><p>In addition to the door zone, riders may try to avoid potholes, debris, drainage grates and other obstacles that can cause a flat or crash. They may also be getting ready to turn. Finally, a rider may take the middle of the lane to signal to a driver behind that it is not safe to pass because the road is too narrow to allow for a 4-ft buffer.</p>"
+    },
+    {
+      "type": "accordion",
+      "title": "Why do cyclists run red lights?",
+      "html": "<p>Cyclists should stop at red lights. Occasionally, it is safer to stop and then proceed than to remain at the intersection. For example, if a cyclist has stopped in a lane that permits a right turn on red, it may be safer to clear the way than to obstruct the lane. For this reason, many cyclists follow the “safety stop” guideline. Also known as the “Idaho Stop” or “Delaware Yield”, this law allows cyclists to treat red lights as stop signs and stop signs as yield signs. Although not a New Jersey law, nine states have passed a version of the “safety stop” bill, and it has been <a href=\"https://www.nysenate.gov/legislation/bills/2021/S920\">proposed in New York</a>. Studies have indicated a 14.5%-23% decrease in injuries after “safety stop” laws were enacted, allowing cyclists to treat red lights as stop signs and stop signs as yield signs.</p>"
+    },
+    {
+      "type": "accordion",
+      "title": "Why do cyclists ride on the sidewalk?",
+      "html": "<p>Cyclists should ride on the street, unless they are age 7 and under. Children may ride on the sidewalk. However, on some streets, traffic is too fast and dangerous for cyclists to ride on the street. In this case, if a cyclist rides on the sidewalk, they should reduce their speed to walking speed (4mph). This is why separate lanes of travel, e.g. bike lanes, are best for pedestrians, drivers and cyclists. Cycle paths reduce dangerous conditions and driver liabilities.</p>"
+    },
+    {
+      "type": "accordion",
+      "title": "Why do you choose cycling over driving?",
+      "html": "<p>For short distances, it’s faster. <br/><br/>It’s cheaper. <br/><br/>It’s often safer (most crashes are vehicle-on-vehicle). <br/><br/>It’s healthier. <br/><br/>It’s liability-free; driving is a high-liability activity. <br/><br/>It’s easier / more convenient to park. <br/><br/>It’s better for the environment. <br/><br/>It’s more enjoyable. <br/><br/>It’s the only option.<br/><br/>It promotes social, neighborhood, and community connections.</p>"
+    },
+    {
+      "type": "accordion",
+      "title": "Why don’t some cyclists wear a helmet?",
+      "html": "<p>Helmets are crucial protection against traumatic brain injury. But we have found that drivers sometimes see us as more “human” when our heads and faces are visible.</p>"
+    },
+    {
+      "type": "accordion",
+      "title": "I just have to make a quick stop. Can I park in the bike lane?",
+      "html": "<p>No. When a vehicle stops in the bike lane, they put all cyclists coming behind them in danger and create liabilities for other drivers by forcing cyclists into the vehicular lane.</p>"
+    }
+  ],
+  "review": [
+    {
+      "id": "block-yui_3_17_2_1_1698040028880_7989",
+      "kind": "custom-code"
+    },
+    {
+      "id": "block-yui_3_17_2_1_1698088408388_6290",
+      "kind": "custom-code"
+    },
+    {
+      "id": "block-yui_3_17_2_1_1679193365198_2669",
+      "kind": "custom-code"
+    }
+  ],
+  "sourceImages": [
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/8e086d2b-9d7a-40ed-99be-2742483f22ea/2nd+St+bike+lane.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/d1fb3d1b-609b-4e6e-9145-2b6075e8513f/VisionZeroLogo4KFinalv1-1280x720.png"
+  ]
+}

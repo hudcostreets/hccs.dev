@@ -1,0 +1,8 @@
+{
+  "extends": "../tsconfig.app.json",
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "types": ["vite/client"]
+  },
+  "include": ["src", "content", "../src/links.ts"]
+}

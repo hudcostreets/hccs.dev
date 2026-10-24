@@ -1,0 +1,1608 @@
+{
+  "source": "https://hudcostreets.org/sitemap.xml",
+  "capturedAt": "2026-10-20T11:24:24.744778+00:00",
+  "pages": [
+    {
+      "path": "/events",
+      "source": "https://hudcostreets.org/events",
+      "modified": "2026-10-10",
+      "imported": false
+    },
+    {
+      "path": "/events/2026-gp-festa",
+      "source": "https://hudcostreets.org/events/2026-gp-festa",
+      "modified": "2026-10-10",
+      "imported": false
+    },
+    {
+      "path": "/events/2026-aadt",
+      "source": "https://hudcostreets.org/events/2026-aadt",
+      "modified": "2026-10-09",
+      "imported": false
+    },
+    {
+      "path": "/events/2026-sots",
+      "source": "https://hudcostreets.org/events/2026-sots",
+      "modified": "2026-10-09",
+      "imported": false
+    },
+    {
+      "path": "/events/nh-2026-june-wt-bus",
+      "source": "https://hudcostreets.org/events/nh-2026-june-wt-bus",
+      "modified": "2026-06-05",
+      "imported": false
+    },
+    {
+      "path": "/events/bayonne-2026-may",
+      "source": "https://hudcostreets.org/events/bayonne-2026-may",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/nh-2026-october",
+      "source": "https://hudcostreets.org/events/nh-2026-october",
+      "modified": "2026-10-10",
+      "imported": false
+    },
+    {
+      "path": "/events/nh-2026-september",
+      "source": "https://hudcostreets.org/events/nh-2026-september",
+      "modified": "2026-09-12",
+      "imported": false
+    },
+    {
+      "path": "/events/nh-2026-august",
+      "source": "https://hudcostreets.org/events/nh-2026-august",
+      "modified": "2026-08-08",
+      "imported": false
+    },
+    {
+      "path": "/events/nh-2026-july",
+      "source": "https://hudcostreets.org/events/nh-2026-july",
+      "modified": "2026-07-17",
+      "imported": false
+    },
+    {
+      "path": "/events/nh-2026-june",
+      "source": "https://hudcostreets.org/events/nh-2026-june",
+      "modified": "2026-06-19",
+      "imported": false
+    },
+    {
+      "path": "/events/nh-2026-may",
+      "source": "https://hudcostreets.org/events/nh-2026-may",
+      "modified": "2026-05-15",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2026-october",
+      "source": "https://hudcostreets.org/events/bh-2026-october",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2026-august",
+      "source": "https://hudcostreets.org/events/bh-2026-august",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2026-september",
+      "source": "https://hudcostreets.org/events/bh-2026-september",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2026-july",
+      "source": "https://hudcostreets.org/events/bh-2026-july",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2026-june",
+      "source": "https://hudcostreets.org/events/bh-2026-june",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2026-october",
+      "source": "https://hudcostreets.org/events/bjc-2026-october",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2026-september",
+      "source": "https://hudcostreets.org/events/bjc-2026-september",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2026-august",
+      "source": "https://hudcostreets.org/events/bjc-2026-august",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2026-july",
+      "source": "https://hudcostreets.org/events/bjc-2026-july",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2026-ward-tour",
+      "source": "https://hudcostreets.org/events/bjc-2026-ward-tour",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2026-june",
+      "source": "https://hudcostreets.org/events/bjc-2026-june",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/2026-secaucus-greenfest",
+      "source": "https://hudcostreets.org/events/2026-secaucus-greenfest",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/nh-2026-april",
+      "source": "https://hudcostreets.org/events/nh-2026-april",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2026-may",
+      "source": "https://hudcostreets.org/events/bh-2026-may",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2026-april",
+      "source": "https://hudcostreets.org/events/bh-2026-april",
+      "modified": "2026-04-07",
+      "imported": false
+    },
+    {
+      "path": "/events/2026-may-lutl",
+      "source": "https://hudcostreets.org/events/2026-may-lutl",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2026-april",
+      "source": "https://hudcostreets.org/events/bjc-2026-april",
+      "modified": "2026-04-07",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2026-march",
+      "source": "https://hudcostreets.org/events/bjc-2026-march",
+      "modified": "2026-04-07",
+      "imported": false
+    },
+    {
+      "path": "/events/njtf2026",
+      "source": "https://hudcostreets.org/events/njtf2026",
+      "modified": "2026-04-07",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-path-qa",
+      "source": "https://hudcostreets.org/events/2025-path-qa",
+      "modified": "2025-12-19",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-wdor-jc",
+      "source": "https://hudcostreets.org/events/2025-wdor-jc",
+      "modified": "2025-11-14",
+      "imported": false
+    },
+    {
+      "path": "/events/hoboken-bike-lane-party",
+      "source": "https://hudcostreets.org/events/hoboken-bike-lane-party",
+      "modified": "2025-11-13",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-jcast-sunday",
+      "source": "https://hudcostreets.org/events/2025-jcast-sunday",
+      "modified": "2025-10-02",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-jcast-saturday",
+      "source": "https://hudcostreets.org/events/2025-jcast-saturday",
+      "modified": "2025-10-02",
+      "imported": false
+    },
+    {
+      "path": "/events/abp-fall-party",
+      "source": "https://hudcostreets.org/events/abp-fall-party",
+      "modified": "2025-11-13",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-summer-fundraiser",
+      "source": "https://hudcostreets.org/events/2025-summer-fundraiser",
+      "modified": "2026-09-19",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-bike-bus-ward-tour",
+      "source": "https://hudcostreets.org/events/2025-bike-bus-ward-tour",
+      "modified": "2025-05-30",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-may-path-rally",
+      "source": "https://hudcostreets.org/events/2025-may-path-rally",
+      "modified": "2025-05-17",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-hudson-gives",
+      "source": "https://hudcostreets.org/events/2025-hudson-gives",
+      "modified": "2025-05-17",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-may-turnpike",
+      "source": "https://hudcostreets.org/events/2025-may-turnpike",
+      "modified": "2025-05-17",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-walkbikeridenj",
+      "source": "https://hudcostreets.org/events/2025-walkbikeridenj",
+      "modified": "2025-04-27",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-secaucus-green-festival",
+      "source": "https://hudcostreets.org/events/2025-secaucus-green-festival",
+      "modified": "2025-04-18",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2025-october",
+      "source": "https://hudcostreets.org/events/nbwhk-2025-october",
+      "modified": "2025-10-10",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2025-september",
+      "source": "https://hudcostreets.org/events/nbwhk-2025-september",
+      "modified": "2025-09-12",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2025-august",
+      "source": "https://hudcostreets.org/events/nbwhk-2025-august",
+      "modified": "2025-08-14",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2025-july",
+      "source": "https://hudcostreets.org/events/nbwhk-2025-july",
+      "modified": "2025-07-19",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2025-june",
+      "source": "https://hudcostreets.org/events/nbwhk-2025-june",
+      "modified": "2025-06-20",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2025-may",
+      "source": "https://hudcostreets.org/events/nbwhk-2025-may",
+      "modified": "2025-05-16",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2025-april",
+      "source": "https://hudcostreets.org/events/nbwhk-2025-april",
+      "modified": "2025-04-11",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-td-boro-tour",
+      "source": "https://hudcostreets.org/events/2025-td-boro-tour",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2025-ward-tour",
+      "source": "https://hudcostreets.org/events/bjc-2025-ward-tour",
+      "modified": "2026-04-30",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2025-october",
+      "source": "https://hudcostreets.org/events/bjc-2025-october",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2025-september",
+      "source": "https://hudcostreets.org/events/bjc-2025-september",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2025-august",
+      "source": "https://hudcostreets.org/events/bjc-2025-august",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2025-july",
+      "source": "https://hudcostreets.org/events/bjc-2025-july",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2025-june",
+      "source": "https://hudcostreets.org/events/bjc-2025-june",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/lutl-2025-may",
+      "source": "https://hudcostreets.org/events/lutl-2025-may",
+      "modified": "2026-04-07",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2025-april",
+      "source": "https://hudcostreets.org/events/bjc-2025-april",
+      "modified": "2025-04-11",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2025-march",
+      "source": "https://hudcostreets.org/events/bjc-2025-march",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2025-october",
+      "source": "https://hudcostreets.org/events/bh-2025-october",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2025-september",
+      "source": "https://hudcostreets.org/events/bh-2025-september",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2025-august",
+      "source": "https://hudcostreets.org/events/bh-2025-august",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2025-july",
+      "source": "https://hudcostreets.org/events/bh-2025-july",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2025-june",
+      "source": "https://hudcostreets.org/events/bh-2025-june",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2025-may",
+      "source": "https://hudcostreets.org/events/bh-2025-may",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2025-april",
+      "source": "https://hudcostreets.org/events/bh-2025-april",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/kearny-walking-tour",
+      "source": "https://hudcostreets.org/events/kearny-walking-tour",
+      "modified": "2025-03-18",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-njbw-summit",
+      "source": "https://hudcostreets.org/events/2025-njbw-summit",
+      "modified": "2025-03-18",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-vzap-public",
+      "source": "https://hudcostreets.org/events/2025-vzap-public",
+      "modified": "2025-02-28",
+      "imported": false
+    },
+    {
+      "path": "/events/2025-vz-launch",
+      "source": "https://hudcostreets.org/events/2025-vz-launch",
+      "modified": "2025-02-28",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-holiday-social",
+      "source": "https://hudcostreets.org/events/2024-holiday-social",
+      "modified": "2024-12-06",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-pa-hearings1-nsfnh",
+      "source": "https://hudcostreets.org/events/2024-pa-hearings1-nsfnh",
+      "modified": "2024-11-28",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-pa-hearings1-pn2xx-73cny",
+      "source": "https://hudcostreets.org/events/2024-pa-hearings1-pn2xx-73cny",
+      "modified": "2024-11-28",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-pa-hearings1-pn2xx",
+      "source": "https://hudcostreets.org/events/2024-pa-hearings1-pn2xx",
+      "modified": "2024-11-28",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-pa-hearings1",
+      "source": "https://hudcostreets.org/events/2024-pa-hearings1",
+      "modified": "2024-11-28",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-wdor-state-7lc7y",
+      "source": "https://hudcostreets.org/events/2024-wdor-state-7lc7y",
+      "modified": "2025-11-13",
+      "imported": false
+    },
+    {
+      "path": "/events/hob-trunk-treat-10-28-23-ln564",
+      "source": "https://hudcostreets.org/events/hob-trunk-treat-10-28-23-ln564",
+      "modified": "2024-10-16",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-vz-public-4",
+      "source": "https://hudcostreets.org/events/2024-vz-public-4",
+      "modified": "2024-10-07",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-vz-public-3",
+      "source": "https://hudcostreets.org/events/2024-vz-public-3",
+      "modified": "2024-10-07",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-vz-public-2",
+      "source": "https://hudcostreets.org/events/2024-vz-public-2",
+      "modified": "2024-10-07",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-vz-public-1",
+      "source": "https://hudcostreets.org/events/2024-vz-public-1",
+      "modified": "2024-10-07",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-jcast-sat-abaez",
+      "source": "https://hudcostreets.org/events/2024-jcast-sat-abaez",
+      "modified": "2024-10-04",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-jcast-sat",
+      "source": "https://hudcostreets.org/events/2024-jcast-sat",
+      "modified": "2024-10-04",
+      "imported": false
+    },
+    {
+      "path": "/events/24-09-14-kids-ride",
+      "source": "https://hudcostreets.org/events/24-09-14-kids-ride",
+      "modified": "2024-09-11",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-nhcw",
+      "source": "https://hudcostreets.org/events/2024-nhcw",
+      "modified": "2024-08-09",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-tour-bayonne",
+      "source": "https://hudcostreets.org/events/2024-tour-bayonne",
+      "modified": "2024-08-01",
+      "imported": false
+    },
+    {
+      "path": "/events/turnpike-rally-jc",
+      "source": "https://hudcostreets.org/events/turnpike-rally-jc",
+      "modified": "2024-07-04",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-guttengreen-festival",
+      "source": "https://hudcostreets.org/events/2024-guttengreen-festival",
+      "modified": "2024-06-18",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2024-june-feed-wt",
+      "source": "https://hudcostreets.org/events/nbwhk-2024-june-feed-wt",
+      "modified": "2024-05-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bayonne-turnpike-trap-rally",
+      "source": "https://hudcostreets.org/events/bayonne-turnpike-trap-rally",
+      "modified": "2024-06-30",
+      "imported": false
+    },
+    {
+      "path": "/events/lutl-2024-05-10",
+      "source": "https://hudcostreets.org/events/lutl-2024-05-10",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bg-2024-april-27",
+      "source": "https://hudcostreets.org/events/bg-2024-april-27",
+      "modified": "2024-08-01",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-spring-fund",
+      "source": "https://hudcostreets.org/events/2024-spring-fund",
+      "modified": "2025-06-21",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2024-october",
+      "source": "https://hudcostreets.org/events/nbwhk-2024-october",
+      "modified": "2024-10-16",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2024-september",
+      "source": "https://hudcostreets.org/events/nbwhk-2024-september",
+      "modified": "2024-09-19",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2024-august",
+      "source": "https://hudcostreets.org/events/nbwhk-2024-august",
+      "modified": "2024-08-04",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2024-july",
+      "source": "https://hudcostreets.org/events/nbwhk-2024-july",
+      "modified": "2024-07-14",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2024-june",
+      "source": "https://hudcostreets.org/events/nbwhk-2024-june",
+      "modified": "2024-06-18",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2024-may",
+      "source": "https://hudcostreets.org/events/nbwhk-2024-may",
+      "modified": "2024-05-25",
+      "imported": false
+    },
+    {
+      "path": "/events/nbwhk-2024-april",
+      "source": "https://hudcostreets.org/events/nbwhk-2024-april",
+      "modified": "2024-04-10",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-wdor-state",
+      "source": "https://hudcostreets.org/events/2024-wdor-state",
+      "modified": "2024-11-15",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-stride-ride",
+      "source": "https://hudcostreets.org/events/2024-stride-ride",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-nb-green-festival",
+      "source": "https://hudcostreets.org/events/2024-nb-green-festival",
+      "modified": "2024-05-31",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-td-boro-tour",
+      "source": "https://hudcostreets.org/events/2024-td-boro-tour",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-bh-earth-day",
+      "source": "https://hudcostreets.org/events/2024-bh-earth-day",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-earth-day-nb-4efc2",
+      "source": "https://hudcostreets.org/events/2024-earth-day-nb-4efc2",
+      "modified": "2024-03-11",
+      "imported": false
+    },
+    {
+      "path": "/events/2024-earth-day-nb",
+      "source": "https://hudcostreets.org/events/2024-earth-day-nb",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2024-september-4sxl4",
+      "source": "https://hudcostreets.org/events/bjc-2024-september-4sxl4",
+      "modified": "2024-10-04",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2024-september",
+      "source": "https://hudcostreets.org/events/bjc-2024-september",
+      "modified": "2024-08-04",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2024-august",
+      "source": "https://hudcostreets.org/events/bjc-2024-august",
+      "modified": "2024-08-10",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2024-july",
+      "source": "https://hudcostreets.org/events/bjc-2024-july",
+      "modified": "2024-07-13",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2024-june",
+      "source": "https://hudcostreets.org/events/bjc-2024-june",
+      "modified": "2024-07-13",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2024-ward-tour",
+      "source": "https://hudcostreets.org/events/bjc-2024-ward-tour",
+      "modified": "2025-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2024-april-earthday",
+      "source": "https://hudcostreets.org/events/bjc-2024-april-earthday",
+      "modified": "2024-04-13",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2024-april",
+      "source": "https://hudcostreets.org/events/bjc-2024-april",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-2024-march",
+      "source": "https://hudcostreets.org/events/bjc-2024-march",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2024-october",
+      "source": "https://hudcostreets.org/events/bh-2024-october",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2024-september",
+      "source": "https://hudcostreets.org/events/bh-2024-september",
+      "modified": "2024-09-19",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2024-july",
+      "source": "https://hudcostreets.org/events/bh-2024-july",
+      "modified": "2024-07-27",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2024-august",
+      "source": "https://hudcostreets.org/events/bh-2024-august",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2024-may",
+      "source": "https://hudcostreets.org/events/bh-2024-may",
+      "modified": "2024-05-18",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2024-april",
+      "source": "https://hudcostreets.org/events/bh-2024-april",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/bh-2024-june",
+      "source": "https://hudcostreets.org/events/bh-2024-june",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-winter-social-2024",
+      "source": "https://hudcostreets.org/events/bjc-winter-social-2024",
+      "modified": "2024-02-24",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-film-2024",
+      "source": "https://hudcostreets.org/events/bjc-film-2024",
+      "modified": "2024-02-06",
+      "imported": false
+    },
+    {
+      "path": "/events/2023-holiday-social",
+      "source": "https://hudcostreets.org/events/2023-holiday-social",
+      "modified": "2024-12-06",
+      "imported": false
+    },
+    {
+      "path": "/events/bnb-feeder-wdor23",
+      "source": "https://hudcostreets.org/events/bnb-feeder-wdor23",
+      "modified": "2023-11-19",
+      "imported": false
+    },
+    {
+      "path": "/events/giving-tuesday-2023",
+      "source": "https://hudcostreets.org/events/giving-tuesday-2023",
+      "modified": "2023-12-11",
+      "imported": false
+    },
+    {
+      "path": "/events/world-day-of-remembrance-2023",
+      "source": "https://hudcostreets.org/events/world-day-of-remembrance-2023",
+      "modified": "2023-11-14",
+      "imported": false
+    },
+    {
+      "path": "/events/hob-trunk-treat-10-28-23",
+      "source": "https://hudcostreets.org/events/hob-trunk-treat-10-28-23",
+      "modified": "2023-10-06",
+      "imported": false
+    },
+    {
+      "path": "/events/hob-library-fest-10-14-23",
+      "source": "https://hudcostreets.org/events/hob-library-fest-10-14-23",
+      "modified": "2023-10-07",
+      "imported": false
+    },
+    {
+      "path": "/events/hccc-10-07-23",
+      "source": "https://hudcostreets.org/events/hccc-10-07-23",
+      "modified": "2023-10-06",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-10-15-23",
+      "source": "https://hudcostreets.org/events/bjc-10-15-23",
+      "modified": "2023-10-09",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-10-14-23",
+      "source": "https://hudcostreets.org/events/bjc-10-14-23",
+      "modified": "2023-10-09",
+      "imported": false
+    },
+    {
+      "path": "/events/bhob-09-30-23",
+      "source": "https://hudcostreets.org/events/bhob-09-30-23",
+      "modified": "2023-09-29",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-09-17-23",
+      "source": "https://hudcostreets.org/events/bjc-09-17-23",
+      "modified": "2023-09-15",
+      "imported": false
+    },
+    {
+      "path": "/events/bnb-10-08-23",
+      "source": "https://hudcostreets.org/events/bnb-10-08-23",
+      "modified": "2023-10-01",
+      "imported": false
+    },
+    {
+      "path": "/events/23-10-22-kids-bike",
+      "source": "https://hudcostreets.org/events/23-10-22-kids-bike",
+      "modified": "2023-09-23",
+      "imported": false
+    },
+    {
+      "path": "/events/bnb-08-12-23",
+      "source": "https://hudcostreets.org/events/bnb-08-12-23",
+      "modified": "2023-08-04",
+      "imported": false
+    },
+    {
+      "path": "/events/bnb-07-23-23",
+      "source": "https://hudcostreets.org/events/bnb-07-23-23",
+      "modified": "2023-08-04",
+      "imported": false
+    },
+    {
+      "path": "/events/03-13-23-jfk",
+      "source": "https://hudcostreets.org/events/03-13-23-jfk",
+      "modified": "2023-07-03",
+      "imported": false
+    },
+    {
+      "path": "/events/23-07-04-bjc-valet",
+      "source": "https://hudcostreets.org/events/23-07-04-bjc-valet",
+      "modified": "2023-07-05",
+      "imported": false
+    },
+    {
+      "path": "/events/23-06-30-bnb-feeder-lutl",
+      "source": "https://hudcostreets.org/events/23-06-30-bnb-feeder-lutl",
+      "modified": "2023-06-27",
+      "imported": false
+    },
+    {
+      "path": "/events/bhc-06-23-23-5hdcz",
+      "source": "https://hudcostreets.org/events/bhc-06-23-23-5hdcz",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/jfk-jsq-meeting",
+      "source": "https://hudcostreets.org/events/jfk-jsq-meeting",
+      "modified": "2023-07-09",
+      "imported": false
+    },
+    {
+      "path": "/events/2023-hudson-gives",
+      "source": "https://hudcostreets.org/events/2023-hudson-gives",
+      "modified": "2025-05-17",
+      "imported": false
+    },
+    {
+      "path": "/events/bnb-05-28-23",
+      "source": "https://hudcostreets.org/events/bnb-05-28-23",
+      "modified": "2023-05-25",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-05-12-23",
+      "source": "https://hudcostreets.org/events/bjc-05-12-23",
+      "modified": "2023-05-11",
+      "imported": false
+    },
+    {
+      "path": "/events/bnb-05-07-23",
+      "source": "https://hudcostreets.org/events/bnb-05-07-23",
+      "modified": "2023-05-25",
+      "imported": false
+    },
+    {
+      "path": "/events/candidate-forum-2023",
+      "source": "https://hudcostreets.org/events/candidate-forum-2023",
+      "modified": "2023-05-09",
+      "imported": false
+    },
+    {
+      "path": "/events/hoboken-earth-day-2023",
+      "source": "https://hudcostreets.org/events/hoboken-earth-day-2023",
+      "modified": "2024-03-10",
+      "imported": false
+    },
+    {
+      "path": "/events/bnb-04-30-23",
+      "source": "https://hudcostreets.org/events/bnb-04-30-23",
+      "modified": "2024-03-11",
+      "imported": false
+    },
+    {
+      "path": "/events/secaucus-green-23",
+      "source": "https://hudcostreets.org/events/secaucus-green-23",
+      "modified": "2023-04-22",
+      "imported": false
+    },
+    {
+      "path": "/events/bhob-10-29-23",
+      "source": "https://hudcostreets.org/events/bhob-10-29-23",
+      "modified": "2023-10-29",
+      "imported": false
+    },
+    {
+      "path": "/events/bhob-09-24-23",
+      "source": "https://hudcostreets.org/events/bhob-09-24-23",
+      "modified": "2023-09-28",
+      "imported": false
+    },
+    {
+      "path": "/events/bhob-08-27-23",
+      "source": "https://hudcostreets.org/events/bhob-08-27-23",
+      "modified": "2023-09-04",
+      "imported": false
+    },
+    {
+      "path": "/events/bhob-07-30-23",
+      "source": "https://hudcostreets.org/events/bhob-07-30-23",
+      "modified": "2023-07-18",
+      "imported": false
+    },
+    {
+      "path": "/events/bhob-06-25-23",
+      "source": "https://hudcostreets.org/events/bhob-06-25-23",
+      "modified": "2023-06-12",
+      "imported": false
+    },
+    {
+      "path": "/events/bhob-05-21-23",
+      "source": "https://hudcostreets.org/events/bhob-05-21-23",
+      "modified": "2023-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/hrr-06-11-23",
+      "source": "https://hudcostreets.org/events/hrr-06-11-23",
+      "modified": "2023-04-10",
+      "imported": false
+    },
+    {
+      "path": "/events/td-boro-23",
+      "source": "https://hudcostreets.org/events/td-boro-23",
+      "modified": "2023-04-10",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-11-10-23",
+      "source": "https://hudcostreets.org/events/bjc-11-10-23",
+      "modified": "2023-09-15",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-10-13-23",
+      "source": "https://hudcostreets.org/events/bjc-10-13-23",
+      "modified": "2023-09-15",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-09-08-23",
+      "source": "https://hudcostreets.org/events/bjc-09-08-23",
+      "modified": "2023-05-12",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-08-11-23",
+      "source": "https://hudcostreets.org/events/bjc-08-11-23",
+      "modified": "2023-05-12",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-07-14-23",
+      "source": "https://hudcostreets.org/events/bjc-07-14-23",
+      "modified": "2023-07-05",
+      "imported": false
+    },
+    {
+      "path": "/events/lutl-06-23-23",
+      "source": "https://hudcostreets.org/events/lutl-06-23-23",
+      "modified": "2023-06-24",
+      "imported": false
+    },
+    {
+      "path": "/events/jc-ward-tour-23",
+      "source": "https://hudcostreets.org/events/jc-ward-tour-23",
+      "modified": "2023-05-18",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-bus-05-03-23",
+      "source": "https://hudcostreets.org/events/bjc-bus-05-03-23",
+      "modified": "2023-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-04-14-23",
+      "source": "https://hudcostreets.org/events/bjc-04-14-23",
+      "modified": "2023-04-13",
+      "imported": false
+    },
+    {
+      "path": "/events/bjc-03-17-23",
+      "source": "https://hudcostreets.org/events/bjc-03-17-23",
+      "modified": "2023-04-10",
+      "imported": false
+    },
+    {
+      "path": "/events/bnb-wdor22",
+      "source": "https://hudcostreets.org/events/bnb-wdor22",
+      "modified": "2022-11-18",
+      "imported": false
+    },
+    {
+      "path": "/events/world-day-of-remembrance-2022",
+      "source": "https://hudcostreets.org/events/world-day-of-remembrance-2022",
+      "modified": "2023-10-22",
+      "imported": false
+    },
+    {
+      "path": "/events/nb-turnpike-ride",
+      "source": "https://hudcostreets.org/events/nb-turnpike-ride",
+      "modified": "2022-11-03",
+      "imported": false
+    },
+    {
+      "path": "/events/turnpike-rally",
+      "source": "https://hudcostreets.org/events/turnpike-rally",
+      "modified": "2022-11-03",
+      "imported": false
+    },
+    {
+      "path": "/events/jcast-10-2-22",
+      "source": "https://hudcostreets.org/events/jcast-10-2-22",
+      "modified": "2022-09-28",
+      "imported": false
+    },
+    {
+      "path": "/events/jcast-10-1-22",
+      "source": "https://hudcostreets.org/events/jcast-10-1-22",
+      "modified": "2022-09-28",
+      "imported": false
+    },
+    {
+      "path": "/events/nb-ride-bonus-oct-22",
+      "source": "https://hudcostreets.org/events/nb-ride-bonus-oct-22",
+      "modified": "2024-03-11",
+      "imported": false
+    },
+    {
+      "path": "/events/nb-ride-oct-22",
+      "source": "https://hudcostreets.org/events/nb-ride-oct-22",
+      "modified": "2024-03-11",
+      "imported": false
+    },
+    {
+      "path": "/events/nb-ride-aug-22",
+      "source": "https://hudcostreets.org/events/nb-ride-aug-22",
+      "modified": "2022-07-29",
+      "imported": false
+    },
+    {
+      "path": "/events/nb-mini-june-22",
+      "source": "https://hudcostreets.org/events/nb-mini-june-22",
+      "modified": "2022-06-07",
+      "imported": false
+    },
+    {
+      "path": "/events/nb-mini-may-22",
+      "source": "https://hudcostreets.org/events/nb-mini-may-22",
+      "modified": "2022-05-19",
+      "imported": false
+    },
+    {
+      "path": "/events/nb-mini-april",
+      "source": "https://hudcostreets.org/events/nb-mini-april",
+      "modified": "2024-03-11",
+      "imported": false
+    },
+    {
+      "path": "/events/ecg2022",
+      "source": "https://hudcostreets.org/events/ecg2022",
+      "modified": "2022-04-21",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-e3a5j-9zxbn-mprws-ak5dk-en38y-t7eaz-she5d",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-e3a5j-9zxbn-mprws-ak5dk-en38y-t7eaz-she5d",
+      "modified": "2022-04-15",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-e3a5j-9zxbn-mprws-ak5dk-en38y-t7eaz",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-e3a5j-9zxbn-mprws-ak5dk-en38y-t7eaz",
+      "modified": "2022-04-15",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-e3a5j-9zxbn-mprws-ak5dk-en38y",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-e3a5j-9zxbn-mprws-ak5dk-en38y",
+      "modified": "2022-04-15",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-e3a5j-9zxbn-mprws-ak5dk",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-e3a5j-9zxbn-mprws-ak5dk",
+      "modified": "2022-04-15",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-e3a5j-9zxbn-mprws",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-e3a5j-9zxbn-mprws",
+      "modified": "2022-04-15",
+      "imported": false
+    },
+    {
+      "path": "/events/hbm-05-27-22",
+      "source": "https://hudcostreets.org/events/hbm-05-27-22",
+      "modified": "2022-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-e3a5j",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-e3a5j",
+      "modified": "2024-03-11",
+      "imported": false
+    },
+    {
+      "path": "/events/td-boro-22",
+      "source": "https://hudcostreets.org/events/td-boro-22",
+      "modified": "2022-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-8zehh",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-8zehh",
+      "modified": "2022-04-15",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-aa79h-psrdc-m6kjs-5m4k7-clefn-xaecx",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-aa79h-psrdc-m6kjs-5m4k7-clefn-xaecx",
+      "modified": "2023-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-aa79h-psrdc-m6kjs-5m4k7-clefn",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-aa79h-psrdc-m6kjs-5m4k7-clefn",
+      "modified": "2023-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-aa79h-psrdc-m6kjs-5m4k7",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-aa79h-psrdc-m6kjs-5m4k7",
+      "modified": "2023-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-aa79h-psrdc-m6kjs",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-aa79h-psrdc-m6kjs",
+      "modified": "2023-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn-aa79h-psrdc",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn-aa79h-psrdc",
+      "modified": "2023-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/hob-05-22-22",
+      "source": "https://hudcostreets.org/events/hob-05-22-22",
+      "modified": "2023-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-hsrwn",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-hsrwn",
+      "modified": "2023-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-r4pfy-xl5ss-zmsdj",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-r4pfy-xl5ss-zmsdj",
+      "modified": "2022-10-07",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-r4pfy-xl5ss",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-r4pfy-xl5ss",
+      "modified": "2022-10-07",
+      "imported": false
+    },
+    {
+      "path": "/events/whk-05-15-22",
+      "source": "https://hudcostreets.org/events/whk-05-15-22",
+      "modified": "2022-10-07",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-sp7kb-flyr2",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-sp7kb-flyr2",
+      "modified": "2022-10-07",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf-sp7kb",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf-sp7kb",
+      "modified": "2022-10-07",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-8mdlf",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-8mdlf",
+      "modified": "2022-10-07",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-lyc53-hny6d",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-lyc53-hny6d",
+      "modified": "2022-09-12",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-lyc53",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-lyc53",
+      "modified": "2022-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-y4jj9-2exbp",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-y4jj9-2exbp",
+      "modified": "2022-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-y4jj9-w2h8r",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-y4jj9-w2h8r",
+      "modified": "2022-03-31",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-y4jj9-bzxn9-hsm2l-rcw4w",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-y4jj9-bzxn9-hsm2l-rcw4w",
+      "modified": "2022-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/jc-ward-tour-22",
+      "source": "https://hudcostreets.org/events/jc-ward-tour-22",
+      "modified": "2022-05-01",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl-y4jj9-bzxn9",
+      "source": "https://hudcostreets.org/events/event-one-j35jl-y4jj9-bzxn9",
+      "modified": "2022-05-03",
+      "imported": false
+    },
+    {
+      "path": "/events/jc-05-13-22",
+      "source": "https://hudcostreets.org/events/jc-05-13-22",
+      "modified": "2023-04-13",
+      "imported": false
+    },
+    {
+      "path": "/events/event-one-j35jl",
+      "source": "https://hudcostreets.org/events/event-one-j35jl",
+      "modified": "2023-04-13",
+      "imported": false
+    },
+    {
+      "path": "/news",
+      "source": "https://hudcostreets.org/news",
+      "modified": "2026-08-22",
+      "imported": false
+    },
+    {
+      "path": "/news/jfk-blvd-safety-improvements-statement",
+      "source": "https://hudcostreets.org/news/jfk-blvd-safety-improvements-statement",
+      "modified": "2026-08-22",
+      "imported": false
+    },
+    {
+      "path": "/news/world-cup-ready",
+      "source": "https://hudcostreets.org/news/world-cup-ready",
+      "modified": "2026-05-02",
+      "imported": false
+    },
+    {
+      "path": "/news/praiseforturnpikeextensionrepairplan",
+      "source": "https://hudcostreets.org/news/praiseforturnpikeextensionrepairplan",
+      "modified": "2026-08-22",
+      "imported": false
+    },
+    {
+      "path": "/news/s4834-a6235-opposition",
+      "source": "https://hudcostreets.org/news/s4834-a6235-opposition",
+      "modified": "2025-12-23",
+      "imported": false
+    },
+    {
+      "path": "/news/gov-elect-transition-priorities",
+      "source": "https://hudcostreets.org/news/gov-elect-transition-priorities",
+      "modified": "2025-12-04",
+      "imported": false
+    },
+    {
+      "path": "/news/press-release-path-win",
+      "source": "https://hudcostreets.org/news/press-release-path-win",
+      "modified": "2025-11-18",
+      "imported": false
+    },
+    {
+      "path": "/news/press-release-path-rally",
+      "source": "https://hudcostreets.org/news/press-release-path-rally",
+      "modified": "2025-11-18",
+      "imported": false
+    },
+    {
+      "path": "/news/press-release-rutgers-grant",
+      "source": "https://hudcostreets.org/news/press-release-rutgers-grant",
+      "modified": "2023-05-23",
+      "imported": false
+    },
+    {
+      "path": "/news/05-18-23-candidate-forum",
+      "source": "https://hudcostreets.org/news/05-18-23-candidate-forum",
+      "modified": "2023-05-23",
+      "imported": false
+    },
+    {
+      "path": "/news/category/Press+Release",
+      "source": "https://hudcostreets.org/news/category/Press+Release",
+      "modified": null,
+      "imported": false
+    },
+    {
+      "path": "/news/category/Story",
+      "source": "https://hudcostreets.org/news/category/Story",
+      "modified": null,
+      "imported": false
+    },
+    {
+      "path": "/our-story",
+      "source": "https://hudcostreets.org/our-story",
+      "modified": "2025-10-02",
+      "imported": true
+    },
+    {
+      "path": "/contact",
+      "source": "https://hudcostreets.org/contact",
+      "modified": "2025-03-09",
+      "imported": false
+    },
+    {
+      "path": "/jfkblvdeastredesign",
+      "source": "https://hudcostreets.org/jfkblvdeastredesign",
+      "modified": "2025-02-09",
+      "imported": false
+    },
+    {
+      "path": "/calendar",
+      "source": "https://hudcostreets.org/calendar",
+      "modified": "2025-03-18",
+      "imported": false
+    },
+    {
+      "path": "/viaduct/action",
+      "source": "https://hudcostreets.org/viaduct/action",
+      "modified": "2025-10-17",
+      "imported": false
+    },
+    {
+      "path": "/advocacy",
+      "source": "https://hudcostreets.org/advocacy",
+      "modified": "2025-12-10",
+      "imported": true
+    },
+    {
+      "path": "/bike-shops",
+      "source": "https://hudcostreets.org/bike-shops",
+      "modified": "2023-10-26",
+      "imported": false
+    },
+    {
+      "path": "/get-involved",
+      "source": "https://hudcostreets.org/get-involved",
+      "modified": "2024-06-27",
+      "imported": true
+    },
+    {
+      "path": "/vision-zero",
+      "source": "https://hudcostreets.org/vision-zero",
+      "modified": "2025-04-18",
+      "imported": true
+    },
+    {
+      "path": "/education/cs-presentation",
+      "source": "https://hudcostreets.org/education/cs-presentation",
+      "modified": "2023-04-13",
+      "imported": false
+    },
+    {
+      "path": "/education",
+      "source": "https://hudcostreets.org/education",
+      "modified": "2023-04-17",
+      "imported": false
+    },
+    {
+      "path": "/education/bike-network-presentation",
+      "source": "https://hudcostreets.org/education/bike-network-presentation",
+      "modified": "2023-04-13",
+      "imported": false
+    },
+    {
+      "path": "/citi-bike-data",
+      "source": "https://hudcostreets.org/citi-bike-data",
+      "modified": "2023-11-08",
+      "imported": false
+    },
+    {
+      "path": "/2023-hc-candidate-forum",
+      "source": "https://hudcostreets.org/2023-hc-candidate-forum",
+      "modified": "2023-05-15",
+      "imported": false
+    },
+    {
+      "path": "/media",
+      "source": "https://hudcostreets.org/media",
+      "modified": "2025-06-19",
+      "imported": false
+    },
+    {
+      "path": "/fix-139",
+      "source": "https://hudcostreets.org/fix-139",
+      "modified": "2025-02-09",
+      "imported": false
+    },
+    {
+      "path": "/library",
+      "source": "https://hudcostreets.org/library",
+      "modified": "2025-05-08",
+      "imported": false
+    },
+    {
+      "path": "/team",
+      "source": "https://hudcostreets.org/team",
+      "modified": "2026-03-06",
+      "imported": false
+    },
+    {
+      "path": "/groups",
+      "source": "https://hudcostreets.org/groups",
+      "modified": "2025-03-18",
+      "imported": true
+    },
+    {
+      "path": "/sponsorship",
+      "source": "https://hudcostreets.org/sponsorship",
+      "modified": "2025-11-20",
+      "imported": false
+    },
+    {
+      "path": "/financials",
+      "source": "https://hudcostreets.org/financials",
+      "modified": "2026-05-13",
+      "imported": false
+    },
+    {
+      "path": "/panynj",
+      "source": "https://hudcostreets.org/panynj",
+      "modified": "2026-06-25",
+      "imported": true
+    },
+    {
+      "path": "/donate",
+      "source": "https://hudcostreets.org/donate",
+      "modified": "2026-01-20",
+      "imported": false
+    },
+    {
+      "path": "/panynj/action",
+      "source": "https://hudcostreets.org/panynj/action",
+      "modified": "2025-05-24",
+      "imported": false
+    },
+    {
+      "path": "/panynj/volunteer",
+      "source": "https://hudcostreets.org/panynj/volunteer",
+      "modified": "2026-06-25",
+      "imported": false
+    },
+    {
+      "path": "/careers",
+      "source": "https://hudcostreets.org/careers",
+      "modified": "2025-10-03",
+      "imported": false
+    },
+    {
+      "path": "/viaduct",
+      "source": "https://hudcostreets.org/viaduct",
+      "modified": "2025-06-01",
+      "imported": false
+    },
+    {
+      "path": "/privacy",
+      "source": "https://hudcostreets.org/privacy",
+      "modified": "2025-06-24",
+      "imported": false
+    },
+    {
+      "path": "/membership",
+      "source": "https://hudcostreets.org/membership",
+      "modified": "2025-09-10",
+      "imported": false
+    },
+    {
+      "path": "/hblr",
+      "source": "https://hudcostreets.org/hblr",
+      "modified": "2026-07-26",
+      "imported": true
+    },
+    {
+      "path": "/fixjfkblvd",
+      "source": "https://hudcostreets.org/fixjfkblvd",
+      "modified": "2025-10-17",
+      "imported": false
+    },
+    {
+      "path": "/fixjfkblvd/action",
+      "source": "https://hudcostreets.org/fixjfkblvd/action",
+      "modified": "2025-10-17",
+      "imported": false
+    },
+    {
+      "path": "/hblr/action",
+      "source": "https://hudcostreets.org/hblr/action",
+      "modified": "2026-02-18",
+      "imported": false
+    },
+    {
+      "path": "/2026-transit-forum",
+      "source": "https://hudcostreets.org/2026-transit-forum",
+      "modified": "2026-07-15",
+      "imported": false
+    },
+    {
+      "path": "/better-buses",
+      "source": "https://hudcostreets.org/better-buses",
+      "modified": "2026-06-09",
+      "imported": true
+    },
+    {
+      "path": "/wins",
+      "source": "https://hudcostreets.org/wins",
+      "modified": "2026-06-09",
+      "imported": true
+    },
+    {
+      "path": "/home",
+      "source": "https://hudcostreets.org/home",
+      "modified": "2026-06-16",
+      "imported": true
+    },
+    {
+      "path": "/hblr/volunteer",
+      "source": "https://hudcostreets.org/hblr/volunteer",
+      "modified": "2026-07-26",
+      "imported": false
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "path": "/groups",
+  "title": "Local Groups",
+  "description": "",
+  "source": "https://hudcostreets.org/groups",
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/media/1ff7b2dfbd6b04e2.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/f9b9538d-f4e3-45f5-b08c-8ee7ec16ab9f/bike-hoboken-full-logo.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<ul>\n\n<li>\n<a href=\"https://bikehoboken.org\">bikehoboken.org</a>\n</li>\n\n<li>\n<a href=\"https://instagram.com/bikehoboken\">instagram.com/bikehoboken</a>\n</li>\n\n<li>\n<a href=\"https://www.facebook.com/BikeHoboken\">facebook.com/BikeHoboken</a>\n</li>\n\n<li>\n<a href=\"https://twitter.com/bikehoboken\">twitter.com/bikehoboken</a>\n</li>\n</ul>"
+    },
+    {
+      "type": "image",
+      "src": "/media/e44f8a1220f9008c.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/670d6b0e-d7c2-4156-90fa-e05c62af63fa/safe-streets-logo-100px.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<ul>\n\n<li>\n<a href=\"https://safestreetsjerseycity.org\">safestreetsjerseycity.org</a>\n</li>\n\n<li>\n<a href=\"https://www.instagram.com/safestreetsjc\">instagram.com/safestreetsjc</a>\n</li>\n\n<li>\n<a href=\"https://www.facebook.com/safestreetsjerseycity\">facebook.com/safestreetsjerseycity</a>\n</li>\n\n<li>\n<a href=\"https://twitter.com/safestreetsjc\">twitter.com/safestreetsjc</a>\n</li>\n</ul>"
+    },
+    {
+      "type": "image",
+      "src": "/media/da60ffbf87aa340e.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/c34e0a77-6e85-4fe3-871f-eb949df52778/bnb-transparent-logo.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<ul>\n\n<li>\n<a href=\"https://bikenorthbergen.org\">bikenorthbergen.org</a>\n</li>\n\n<li>\n<a href=\"https://www.instagram.com/bikenorthbergen\">instagram.com/bikenorthbergen</a>\n</li>\n\n\n\n<li>\n<a href=\"https://www.facebook.com/bikenorthbergen\">facebook.com/bikenorthbergen</a>\n</li>\n\n<li>\n<a href=\"https://twitter.com/bikenorthbergen\">twitter.com/bikenorthbergen</a>\n</li>\n</ul>"
+    },
+    {
+      "type": "image",
+      "src": "/media/26de542889f32395.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/71d89e28-6b68-41c2-b86f-1e6b73d0f5f6/WeeBiken-Logo-transparent.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<ul>\n\n<li>\n<a href=\"https://weebiken.org\">weebiken.org</a>\n</li>\n\n<li>\n<a href=\"https://www.instagram.com/weebiken\">instagram.com/weebiken</a>\n</li>\n\n<li>\n<a href=\"https://www.facebook.com/weebiken\">facebook.com/weebiken</a>\n</li>\n\n<li>\n<a href=\"https://twitter.com/weebiken\">twitter.com/weebiken</a>\n</li>\n</ul>"
+    },
+    {
+      "type": "image",
+      "src": "/media/602c7be8b81bd65d.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1708752286814-JYMG82MQTGK9TVG65U5I/bike-jc-transparent-logo.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<ul>\n\n<li>\n<a href=\"https://www.bikejc.org\">bikejc.org</a>\n</li>\n\n<li>\n<a href=\"http://www.instagram.com/bikejcgram\">instagram.com/bikejcgram</a>\n</li>\n\n<li>\n<a href=\"https://www.facebook.com/bikeJC\">facebook.com/bikeJC</a>\n</li>\n\n<li>\n<a href=\"http://www.twitter.com/bikejc\">twitter.com/bikejc</a>\n</li>\n</ul>"
+    },
+    {
+      "type": "image",
+      "src": "/media/69b6af76754a8d13.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/0196a4a9-1315-487c-95cf-7e6c11b135db/bayonne-green-logo-transparent.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<ul>\n\n<li>\n<a href=\"https://bayonnegreen.org/\">bayonnegreen.org</a>\n</li>\n\n<li>\n<a href=\"https://www.instagram.com/bayonnegreen/\">instagram.com/bayonnegreen</a>\n</li>\n\n\n\n\n</ul>"
+    },
+    {
+      "type": "image",
+      "src": "/media/de4398f43ab56ca3.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/a987a8f2-7e7b-4486-a979-a7e58b40b1a2/STWHudsonNoBackground.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<ul>\n\n\n\n<li>\n<a href=\"https://www.instagram.com/stwesthudson/\">instagram.com/stwesthudson</a>\n</li>\n\n\n\n\n</ul>"
+    }
+  ],
+  "review": [
+    {
+      "id": "block-yui_3_17_2_1_1718490203252_53634",
+      "kind": "custom-code"
+    },
+    {
+      "id": "block-ec33281ccdf92d94354d",
+      "kind": "custom-code"
+    },
+    {
+      "id": "block-19e5dc3d992029fb42dd",
+      "kind": "custom-code"
+    },
+    {
+      "id": "block-c4321c5d85f711b2c501",
+      "kind": "custom-code"
+    },
+    {
+      "id": "block-7aaeb8d60358c042e045",
+      "kind": "custom-code"
+    },
+    {
+      "id": "block-3198a6f40959bd3e8a90",
+      "kind": "custom-code"
+    },
+    {
+      "id": "block-8b888d512ac3f4da946e",
+      "kind": "custom-code"
+    }
+  ],
+  "sourceImages": [
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/f9b9538d-f4e3-45f5-b08c-8ee7ec16ab9f/bike-hoboken-full-logo.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/670d6b0e-d7c2-4156-90fa-e05c62af63fa/safe-streets-logo-100px.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/c34e0a77-6e85-4fe3-871f-eb949df52778/bnb-transparent-logo.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/71d89e28-6b68-41c2-b86f-1e6b73d0f5f6/WeeBiken-Logo-transparent.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1708752286814-JYMG82MQTGK9TVG65U5I/bike-jc-transparent-logo.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/0196a4a9-1315-487c-95cf-7e6c11b135db/bayonne-green-logo-transparent.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/a987a8f2-7e7b-4486-a979-a7e58b40b1a2/STWHudsonNoBackground.png"
+  ]
+}

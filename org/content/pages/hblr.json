@@ -1,0 +1,123 @@
+{
+  "path": "/hblr",
+  "title": "A Better Light Rail",
+  "description": "",
+  "source": "https://hudcostreets.org/hblr",
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<h3>The Hudson-Bergen Light Rail opened in April 2000 and carries more than 55,000 people per weekday. It’s 8th busiest light rail system in the country yet it hasn’t been expanded <em>since 2011, </em>despite the state’s promise to build it north into Bergen County and west to Route 440. Northern NJ’s rail legacy deserves a modern revival. Hudson, Bergen, and Essex counties deserve to be connected by light rail. We don’t need another highway or decades of delays—we need frequent, reliable service and connected communities now.  </h3>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>TAKE ACTION!</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/79759ea47b664183.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/cbc67270-62ed-446c-8927-849107bfeb82/PXL_20250927_194704192.jpg",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<p>Take 2 minutes to tell NJ TRANSIT and state leaders to fund frequent 10-minute service and build the HBLR extensions (Route 440/Bayfront + Northern Branch).</p>"
+    },
+    {
+      "type": "link",
+      "label": "Write Letter",
+      "href": "https://hudcostreets.org/hblr/action"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>CANVASS WITH US!</strong></h2>"
+    },
+    {
+      "type": "image",
+      "src": "/media/746da5eabd2a0a01.jpg",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/716a6284-07a6-491e-8bc8-3c1d86bfbee2/IMG_2088.jpg",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<p>Sign up for a shift to canvass with our team to get more petition signatures!</p>"
+    },
+    {
+      "type": "link",
+      "label": "Sign Up",
+      "href": "https://hudcostreets.org/hblr/volunteer"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Campaign Goals</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><a href=\"https://content.njtransit.com/sites/default/files/njtplans/Light%20Rail%20-%20Project%20Sheets.pdf\"><strong>Capital Projects</strong></a></h3>"
+    },
+    {
+      "type": "accordion",
+      "title": "Extension to Route 440 and Essex Study",
+      "html": "<p><a href=\"https://hblr440.com/\">0.7-mile, two-track viaduct from West Side Ave to a new terminal in the Bayfront redevelopment; upgrades at West Side Ave station. Positions HBLR for a westward spur along the former CNJ Newark &amp; New York ROW via South Kearny toward Newark’s Ironbound and Newark Penn.</a></p>"
+    },
+    {
+      "type": "accordion",
+      "title": "Northern Branch Extension to Bergen",
+      "html": "<p>~9-mile HBLR extension from Tonnelle Ave to Englewood Hospital with 7 new stations, sharing CSX ROW (freight overnight). <strong>Necessary</strong> to add rail capacity in a road-heavy corridor and support regional growth. <strong>Helps</strong> by giving Bergen Co. direct HBLR access, fewer transfers, and better links to Hoboken/NYC.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h3><strong>Building Blocks</strong></h3>"
+    },
+    {
+      "type": "accordion",
+      "title": "18th Street/Holland Park Station",
+      "html": "<p>City and developer-backed infill stop envisioned as an <strong>elevated HBLR station at 18th &amp; Jersey Ave</strong> with links to Grove St. Recent Rebuild By Design letters confirm <strong>foundation accommodations</strong> so the floodwall won’t preclude a future station. <strong>Why it helps:</strong> fills a long gap between Newport and 2nd St, directly serving new mixed-use growth by the Holland Tunnel approach.</p>"
+    },
+    {
+      "type": "accordion",
+      "title": "15th Street/Northern Hoboken Station",
+      "html": "<p>Hoboken’s adopted <strong>North End Redevelopment Plan</strong> calls for a new HBLR stop at 15th St tied to a retail corridor, open space, and raised streets for resilience. <strong>Why it helps:</strong> gives the fast-growing North End a walkable rail anchor and relieves pressure on existing Hoboken stops.</p>"
+    },
+    {
+      "type": "accordion",
+      "title": "Hoboken Wye",
+      "html": "<p>Add a third bypass track + new Hoboken Terminal platform and a new Grove St station to relieve the “T” junction bottleneck. <strong>Necessary</strong> because the wye is at capacity and demand will rise with other extensions. <strong>Helps</strong> by boosting frequency, cutting delays at the crossing, and adding a new entry point.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Our campaign prioritizes simple service asks and 2 major projects to expand and strengthen the Hudson-Bergen Light Rail (HBLR):</p><ul><li><p><strong>HBLR should run every 10 minutes off-peak</strong></p></li><li><p><strong>Northern Branch Extension</strong> — about nine miles north to Englewood with seven new stations, finally bringing Bergen County onto the HBLR network and connecting thousands of new riders to jobs and destinations.</p></li><li><p><strong>Bayfront (Route 440) Extension</strong> — a 0.7-mile viaduct west of Route 440 to a new Bayfront terminal, with upgrades to West Side Avenue Station with provisions to allow for an extension to <strong>Newark Penn Station via Kearny</strong>.</p></li></ul><p>Alongside these priorities, smaller <strong>“Building Block” projects</strong>—such as infill stations, signal upgrades, and the Hoboken Wye Bypass—offer quick, locally supported wins that improve reliability and access systemwide. Together, these efforts move us toward a more connected, dependable regional light-rail network.</p><p>For reference, <strong>NJ TRANSIT’s official “on-the-books” projects</strong> can be found <a href=\"https://content.njtransit.com/sites/default/files/njtplans/Light%20Rail%20-%20Project%20Sheets.pdf\">[here]</a>.</p>"
+    },
+    {
+      "type": "image",
+      "src": "/media/13954d96d9c7ea23.png",
+      "alt": "",
+      "source": "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/a734397f-4ae9-4e60-89fe-8bba0ad2cab7/Hudson-Bergen-Essex.png",
+      "href": null
+    },
+    {
+      "type": "html",
+      "html": "<p>The image here represents what a potential future version of Light Rail in Northern New Jersey could be connecting the Newark Light Rail and Hudson-Bergen Light Rail to make one united system and extending the Light Rail to Bergen County. All credit to Kara Fischer for the map.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Background</strong></h2>"
+    },
+    {
+      "type": "html",
+      "html": "<p>Northern New Jersey once ran on rails: a dense streetcar web and the CNJ’s Newark &amp; New York line stitched Hoboken, Jersey City, South Kearny, and Newark’s Ironbound together until mid-century. HBLR proved we can build again—its first segment opened in 2000 and has fueled growth up and down the waterfront. The next chapter can’t be another decade of studies; it needs construction, service, and results.</p><p><strong>Why this matters:</strong><br/>More frequent, reliable trains cut traffic, reduce emissions, and widen access to jobs, schools, parks, and the waterfront—without carving new car lanes. The capital plan already names the pieces; our ask is simple: <strong>move from promises to projects</strong>—fund, schedule, and build the upgrades and extensions that make HBLR a turn-up-and-go network for everyone.</p>"
+    },
+    {
+      "type": "html",
+      "html": "<h2><strong>Further Reading</strong></h2><h4><strong>Media Coverage</strong></h4><ul><li><p><a href=\"https://www.nj.com/news/2026/01/nj-commuters-left-stranded-by-cancelled-trains-during-union-contractor-dispute.html\">NJ Commuters Left Stranded by Cancelled Trains Durint Union Contractor Dispute</a></p></li><li><p><a href=\"https://jerseydigs.com/15th-street-light-rail-station-hoboken/\">15th Street Light Rail Feasibility Study</a></p></li><li><p><a href=\"https://www.nj.com/news/2025/09/nj-transit-slams-light-rail-operator-after-cancellations-leave-students-late-for-school.html\">Kids are late to school because trains aren’t showing up. NJ Transit blames operator.</a></p></li><li><p><a href=\"https://www.nj.com/news/2025/08/nj-transit-canceled-almost-100-light-rail-trains-in-a-week.html\">NJ Transit canceled almost 100 light rail trains in a week</a></p></li><li><p><a href=\"https://www.nj.com/news/2025/06/officials-nj-transit-riders-frustrated-as-bergen-light-rail-extension-study-delayed-until-2026.html\">NJ Transit Extension to Bergen County further delayed</a></p></li><li><p><a href=\"https://hudsoncountyview.com/rebuild-by-design-proceeding-in-jersey-city-after-assurances-about-new-light-rail-station/\">Rebuild by Design proceeding in Jersey City after assurances about new light rail</a></p><p><a href=\"https://hudsoncountyview.com/rebuild-by-design-proceeding-in-jersey-city-after-assurances-about-new-light-rail-station/\">station</a></p></li><li><p><a href=\"https://jerseydigs.com/holland-park-proposal-could-bring-new-light-rail-station-800-units-to-jersey-city/\">Holland Park Proposal Could Bring New Light Rail Station</a></p></li><li><p><a href=\"https://jerseydigs.com/hudson-bergen-light-rail-operator/\">Hudson-Bergen Light Rail to Get New Operator in Major $1.5 Billion NJ Transit Deal</a></p></li><li><p><a href=\"https://jerseydigs.com/hudson-bergen-light-rail-expansion-440-connection-bayfront/\">Officials Announce Westward Expansion of Hudson-Bergen Light Rail</a></p></li><li><p><a href=\"https://www.hobokengirl.com/15th-street-hoboken-light-rail-stop-news/\">An $8M Light Rail Stop at 15th Street in Hoboken Could Become a Reality</a></p></li></ul><h4><strong>Other Studies</strong></h4><ul><li><p><a href=\"https://hblr440.com/\">Extension to Route 440 and Essex Study</a></p></li><li><p><a href=\"https://www.njtransit.com/northern-branch-corridor-project\">Northern Branch Extension to Bergen</a></p></li><li><p><a href=\"https://jerseydigs.com/extend-hudson-bergen-light-rail-kearny-point-ironbound/\">Newark Extension</a></p></li><li><p><a href=\"https://www.njtpa.org/Get-Involved/Info-Resources/Calendar/2024/March/Open-House-Bergen-Arches-Study.aspx?utm_source=chatgpt.com\">Bergen Arches Extension Study</a></p></li><li><p><a href=\"https://www.livinthehighline.com/urban-greenways/harsimus/\">Embankment Light Rail Extension</a></p></li></ul>"
+    }
+  ],
+  "review": [],
+  "sourceImages": [
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/7360d68e-c1f0-4d97-b09c-df86e99b1e0f/Better-Light-Rail_Logo_Mission-Tagline_High.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/cbc67270-62ed-446c-8927-849107bfeb82/PXL_20250927_194704192.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/716a6284-07a6-491e-8bc8-3c1d86bfbee2/IMG_2088.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/a734397f-4ae9-4e60-89fe-8bba0ad2cab7/Hudson-Bergen-Essex.png"
+  ]
+}

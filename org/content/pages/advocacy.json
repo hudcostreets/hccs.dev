@@ -1,0 +1,107 @@
+{
+  "path": "/advocacy",
+  "title": "Campaigns",
+  "description": "",
+  "source": "https://hudcostreets.org/advocacy",
+  "blocks": [
+    {
+      "type": "card",
+      "title": "Port Authority/PATH",
+      "html": "<p>Mobilizing to ask the Port Authority for <strong>5-minute off-peak PATH train</strong> frequency and <strong>extending the PATH to Newark Airport</strong>.</p>",
+      "href": "https://hudcostreets.org/panynj",
+      "src": "/media/b258f5a0797e88e5.jpg"
+    },
+    {
+      "type": "card",
+      "title": "Better Light Rail",
+      "html": "<p>The Hudson-Bergen Light Rail is the 6th busiest light rail system in the country yet it hasn’t been expanded since 2011. Northern NJ’s rail legacy deserves a modern revival. We need frequent, reliable service and connected communities now.</p>",
+      "href": "https://hudcostreets.org/hblr",
+      "src": "/media/32b6c3e20b275366.png"
+    },
+    {
+      "type": "card",
+      "title": "Turnpike Trap",
+      "html": "<p>NJDOT and NJTA want to spend $10.7 billion just to repeat decades of failed policies. Grassroots organizations from around New Jersey are standing together to put a stop to the proposed widening of the I78 extension’s approach to the Holland Tunnel.</p>",
+      "href": "https://turnpiketrap.org",
+      "src": "/media/d131e9d4ca02a097.jpg"
+    },
+    {
+      "type": "card",
+      "title": "14th St. Viaduct",
+      "html": "<p>A temporary barrier protection was erected for installation of a new sidewalk guardrail. This has created a safe cycling path as a result. We are calling on officials to keep the protected barriers permanent after construction of the sidewalk guardrail is completed.<br/></p>",
+      "href": "https://hudcostreets.org/viaduct",
+      "src": "/media/ef65d51e1a471a87.jpg"
+    },
+    {
+      "type": "card",
+      "title": "#FixJFKBlvd",
+      "html": "<p>Known as the Boulevard of Death, JFK Boulevard is a county road that is a hazard to all road users. It is impossible to cross with its wide lanes that encourages speeding, there are dangerous left turns and the bus service running along it leaves much to be desired.</p>",
+      "href": "https://hudcostreets.org/fixjfkblvd",
+      "src": "/media/07326e7cc29dfe6c.png"
+    },
+    {
+      "type": "card",
+      "title": "#Fix139",
+      "html": "<p>Route 139 Upper is a state highway that divides two densely-populated pedestrian-centered neighborhoods in Jersey City: Journal Square and The Heights.</p>",
+      "href": "https://hudcostreets.org/fix-139",
+      "src": "/media/23c3cfe734e889a2.png"
+    },
+    {
+      "type": "card",
+      "title": "JFK Boulevard East",
+      "html": "<p>Currently, there is federal funding and a design earmarked for a protected cycle track on Boulevard East. A multi-use cycle track would provide safety for all types of active modes of transportation to thousands of people along this corridor of overburdened communities. However, local officials have not committed to the bike lane.</p>",
+      "href": "https://hudcostreets.org/jfkblvdeastredesign",
+      "src": "/media/5549b1214b17afd2.png"
+    },
+    {
+      "type": "card",
+      "title": "JC Bike Network",
+      "html": "<p>The 2019 Master Plan aims to provide a connected bicycle network all around Jersey City.</p>",
+      "href": "https://bikejc.github.io/bike-master-plan",
+      "src": "/media/788598ca0c5aa819.png"
+    },
+    {
+      "type": "card",
+      "title": "The Green Circuit",
+      "html": "<p>5 miles circumnavigating the City of Hoboken </p>",
+      "href": "https://streetdesign-cityofhoboken.opendata.arcgis.com",
+      "src": "/media/c5832b4bb51b3af9.png"
+    },
+    {
+      "type": "card",
+      "title": "The Greenway",
+      "html": "<p>The Greenway will offer residents of these communities 9 miles of easy access to nature and recreation.</p>",
+      "href": "https://dep.nj.gov/greenway/",
+      "src": "/media/ffcb0ab83e28626d.jpg"
+    },
+    {
+      "type": "card",
+      "title": "River Road",
+      "html": "<p>9 miles from Weehawken through West New York, Guttenberg, North Bergen, Edgewater, and Fort Lee to the George Washington Bridge</p>",
+      "href": "https://hudcostreets.org",
+      "src": "/media/0c3d04ff72177eff.png"
+    },
+    {
+      "type": "card",
+      "title": "Tonnelle Avenue",
+      "html": "<p>A major north and south state road spanning from North Bergen to Jersey City.</p>",
+      "href": "https://hudcostreets.org",
+      "src": "/media/b4a02b8b07f05614.png"
+    }
+  ],
+  "review": [],
+  "sourceImages": [
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/3eb34d88-270c-49a9-9f1f-68426791462c/PATH+Improve+Service+Petition+Image.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/3a1b654f-3f7a-473e-854d-036b60313680/ABLR-Photo-1.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/d06d60c7-f67b-4dbf-b803-2fd415c7eac7/i78.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1657497867502-NXRUH2BAC6ZNKZOD1DAD/viaduct_now.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/412b799a-1f72-4f21-9d09-d126bee0dec5/Hudson-County-Demo-project-JFK-Manhattan.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1b5593b9-0421-4261-84f2-43614b951e3e/fix139banner.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1657497840735-CV3DMT4BDZY0ST1275QX/blvd-aerial-1.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/15798b0c-16fe-464b-990f-e2158a54686a/jcbikenetwork2.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1657510074846-PONEMR2J8P4L2AN0F7M7/grncrt.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1657499443497-9519RK51DGYB531LPF06/EssexHudsonGreenway_Public_Oct2020_MapImage-1536x1187.jpg",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/1657513642895-5BMTZWZD4UDAB9RPNAJ4/rvrrd.png",
+    "https://images.squarespace-cdn.com/content/v1/610c434e7283f601f262d8bd/e856c2b8-8c94-4988-8911-fa3a7075c291/85-tonnelle-0.0.png"
+  ]
+}
