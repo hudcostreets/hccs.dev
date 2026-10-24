@@ -24,7 +24,7 @@ See [the migration README] for commands, captured routes, content editing, sourc
 - [ ] Review the first slice; proposed hosts are `www.hccs.dev` for the approved organization site and `dev.www.hccs.dev` for integration previews. Preserve `dev.hccs.dev` for development of the apex link tree, following the user's `dev.X` rule. Verify the Pages custom-domain certificate before enabling the nested hostname.
 - [x] Publish the preview to a separate project in the HCCS Cloudflare account: `hccs-www-dev`, deployed from `main` by `org-preview.yml` (October 23). https://hccs-www-dev.pages.dev
 - [ ] Exercise a same-repo PR preview and a fork `/preview` request.
-- [ ] Add the proxied CNAME `dev.www → hccs-www-dev.pages.dev` and verify `dev.www.hccs.dev`'s certificate (domain already registered on the Pages project).
+- [x] Bind `dev.www.hccs.dev`: proxied CNAME to `hccs-www-dev.pages.dev`; Pages-issued certificate verified (October 23). https://dev.www.hccs.dev
 - [ ] Migrate the remaining static pages, news, events, custom embeds, and translation support.
 - [ ] Establish route-level metadata/prerendering, correct HTTP status codes, redirects, analytics, and integration checks before a production-domain cutover.
 
