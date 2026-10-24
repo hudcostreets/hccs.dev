@@ -19,6 +19,11 @@ on:
 permissions:
   contents: read
 
+# `shell: bash` runs steps with `-eo pipefail`, so a failure piped through `tee` still fails the step.
+defaults:
+  run:
+    shell: bash
+
 concurrency:
   group: org-preview-${{ github.event.pull_request.number || github.event.issue.number || inputs.pr || github.ref }}
   cancel-in-progress: false
@@ -135,7 +140,7 @@ jobs:
           test -n "$CLOUDFLARE_ACCOUNT_ID"
           test -n "$CLOUDFLARE_API_TOKEN"
           mkdir -p ../tmp
-          pnpm exec wrangler pages deploy dist --project-name hccs-www-dev --branch "$DEPLOY_BRANCH" --commit-hash "$SOURCE_SHA" --commit-dirty=false 2>&1 | tee ../tmp/org-pages-deploy.log
+          ../node_modules/.bin/wrangler pages deploy dist --project-name hccs-www-dev --branch "$DEPLOY_BRANCH" --commit-hash "$SOURCE_SHA" --commit-dirty=false 2>&1 | tee ../tmp/org-pages-deploy.log
       - name: Post the preview link
         if: needs.gate.outputs.pr != ''
         uses: actions/github-script@v7
