@@ -1,0 +1,150 @@
+name: Organization site preview
+
+on:
+  push:
+    branches: [main, org-site]
+    paths: ['org/**', 'src/links.ts', 'package.json', 'pnpm-lock.yaml', 'tsconfig.app.json', '.github/scripts/org-*', '.github/workflows/org-preview.yml']
+  pull_request_target:
+    branches: [main, org-site]
+    types: [opened, reopened, synchronize, ready_for_review]
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+    inputs:
+      pr:
+        description: 'Optional PR number; blank deploys the selected trusted branch to dev'
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: org-preview-${{ github.event.pull_request.number || github.event.issue.number || inputs.pr || github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  gate:
+    if: github.event_name != 'issue_comment' || (github.event.issue.pull_request && startsWith(github.event.comment.body, '/preview'))
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    outputs:
+      sha: ${{ steps.gate.outputs.sha }}
+      pr: ${{ steps.gate.outputs.pr }}
+      source_branch: ${{ steps.gate.outputs.source_branch }}
+      deploy_branch: ${{ steps.gate.outputs.deploy_branch }}
+    steps:
+      # Only the default branch supplies gate/deploy code. Bootstrap this tooling there first.
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+      - name: Test trusted preview tooling
+        run: node --test .github/scripts/org-*.test.*
+      - uses: actions/github-script@v7
+        id: gate
+        with:
+          script: await require('./.github/scripts/org-preview-gate.cjs')({ github, context, core });
+
+  build:
+    needs: gate
+    if: needs.gate.outputs.sha != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      # PR code, dependency install hooks, and builds execute without deployment credentials.
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ needs.gate.outputs.sha }}
+          persist-credentials: false
+      - uses: pnpm/action-setup@v6
+        with:
+          version: 10
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm build:org
+      - uses: actions/upload-artifact@v4
+        with:
+          name: org-${{ needs.gate.outputs.sha }}
+          path: org/dist
+          include-hidden-files: true
+          if-no-files-found: error
+          retention-days: 7
+
+  deploy:
+    needs: [gate, build]
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment: org-preview
+    permissions:
+      contents: read
+      pull-requests: write
+    env:
+      CLOUDFLARE_ACCOUNT_ID: ${{ vars.HCCS_CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: pnpm/action-setup@v6
+        with:
+          version: 10
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+      - name: Install trusted deployment dependencies
+        run: pnpm install --frozen-lockfile
+      - uses: actions/download-artifact@v4
+        with:
+          name: org-${{ needs.gate.outputs.sha }}
+          path: org/dist
+      - name: Validate the static artifact and enforce preview headers
+        run: |
+          node .github/scripts/org-static-artifact.mjs org/dist
+          cp org/public/_headers org/public/_redirects org/public/robots.txt org/dist/
+      - name: Verify the source commit is still current
+        uses: actions/github-script@v7
+        env:
+          SOURCE_SHA: ${{ needs.gate.outputs.sha }}
+          PR_NUMBER: ${{ needs.gate.outputs.pr }}
+          SOURCE_BRANCH: ${{ needs.gate.outputs.source_branch }}
+        with:
+          script: |
+            const { SOURCE_SHA, PR_NUMBER, SOURCE_BRANCH } = process.env;
+            if (PR_NUMBER) {
+              const { data: pr } = await github.rest.pulls.get({ ...context.repo, pull_number: Number(PR_NUMBER) });
+              if (pr.state !== 'open' || pr.head.sha !== SOURCE_SHA) throw new Error('PR changed or closed while building; request a new preview');
+            } else {
+              const { data: branch } = await github.rest.repos.getBranch({ ...context.repo, branch: SOURCE_BRANCH });
+              if (branch.commit.sha !== SOURCE_SHA) throw new Error('Integration branch changed while building; use the newer run');
+            }
+      - name: Deploy organization-site preview
+        working-directory: org
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.HCCS_CLOUDFLARE_API_TOKEN }}
+          DEPLOY_BRANCH: ${{ needs.gate.outputs.deploy_branch }}
+          SOURCE_SHA: ${{ needs.gate.outputs.sha }}
+        run: |
+          test -n "$CLOUDFLARE_ACCOUNT_ID"
+          test -n "$CLOUDFLARE_API_TOKEN"
+          mkdir -p ../tmp
+          pnpm exec wrangler pages deploy dist --project-name hccs-www-dev --branch "$DEPLOY_BRANCH" --commit-hash "$SOURCE_SHA" --commit-dirty=false 2>&1 | tee ../tmp/org-pages-deploy.log
+      - name: Post the preview link
+        if: needs.gate.outputs.pr != ''
+        uses: actions/github-script@v7
+        env:
+          PR_NUMBER: ${{ needs.gate.outputs.pr }}
+          SOURCE_SHA: ${{ needs.gate.outputs.sha }}
+          DEPLOY_BRANCH: ${{ needs.gate.outputs.deploy_branch }}
+        with:
+          script: |
+            const { PR_NUMBER, SOURCE_SHA, DEPLOY_BRANCH } = process.env;
+            await github.rest.issues.createComment({ ...context.repo, issue_number: Number(PR_NUMBER),
+              body: `Organization-site preview: https://${DEPLOY_BRANCH}.hccs-www-dev.pages.dev\n\nBuilt from \`${SOURCE_SHA}\`. This link updates with later approved builds of this PR; use the deployment URL in the run log to review a fixed build.` });
