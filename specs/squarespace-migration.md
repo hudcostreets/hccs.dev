@@ -22,11 +22,13 @@ See [the migration README] for commands, captured routes, content editing, sourc
 ## Following phases
 
 - [ ] Review the first slice; proposed hosts are `www.hccs.dev` for the approved organization site and `dev.www.hccs.dev` for integration previews. Preserve `dev.hccs.dev` for development of the apex link tree, following the user's `dev.X` rule. Verify the Pages custom-domain certificate before enabling the nested hostname.
-- [ ] Publish the reviewed preview to a separate project in the HCCS Cloudflare account.
+- [x] Publish the preview to a separate project in the HCCS Cloudflare account: `hccs-www-dev`, deployed from `main` by `org-preview.yml` (October 23). https://hccs-www-dev.pages.dev
+- [ ] Exercise a same-repo PR preview and a fork `/preview` request.
+- [ ] Add the proxied CNAME `dev.www → hccs-www-dev.pages.dev` and verify `dev.www.hccs.dev`'s certificate (domain already registered on the Pages project).
 - [ ] Migrate the remaining static pages, news, events, custom embeds, and translation support.
 - [ ] Establish route-level metadata/prerendering, correct HTTP status codes, redirects, analytics, and integration checks before a production-domain cutover.
 
-This spec remains active: the first slice starts the migration and does not complete the Squarespace replacement. Changes remain uncommitted. The October 20 follow-up requests PR-preview setup, but live activation needs credentials and the trusted workflow on the default branch. Production hostname cutover and a shared agent-editing service remain separate review decisions.
+This spec remains active: the first slice starts the migration and does not complete the Squarespace replacement. The app and preview tooling are on `main` (October 23); `org-site` points at the same commit. Production hostname cutover and a shared agent-editing service remain separate review decisions.
 
 [the migration README]: ../org/README.md
 [shared editing research]: shared-site-editing.md
